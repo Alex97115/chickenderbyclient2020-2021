@@ -1,0 +1,6963 @@
+
+ChickenDerby_Animation.png
+size: 1024, 1021
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Anvil/anvil
+  rotate: false
+  xy: 106, 589
+  size: 48, 33
+  orig: 48, 33
+  offset: 0, 0
+  index: -1
+Anvil/dust cloud1
+  rotate: false
+  xy: 1, 983
+  size: 41, 12
+  orig: 55, 14
+  offset: 6, 2
+  index: -1
+Anvil/dust cloud2
+  rotate: false
+  xy: 1, 968
+  size: 51, 14
+  orig: 55, 14
+  offset: 2, 0
+  index: -1
+Anvil/dust cloud3
+  rotate: false
+  xy: 104, 966
+  size: 53, 14
+  orig: 55, 14
+  offset: 1, 0
+  index: -1
+Anvil/dust cloud4
+  rotate: false
+  xy: 195, 965
+  size: 55, 14
+  orig: 55, 14
+  offset: 0, 0
+  index: -1
+Anvil/dust cloud5
+  rotate: false
+  xy: 839, 959
+  size: 59, 15
+  orig: 59, 15
+  offset: 0, 0
+  index: -1
+Anvil/dust cloud6
+  rotate: false
+  xy: 251, 965
+  size: 59, 14
+  orig: 59, 15
+  offset: 0, 0
+  index: -1
+Anvil/feather
+  rotate: false
+  xy: 3, 1018
+  size: 5, 2
+  orig: 5, 2
+  offset: 0, 0
+  index: -1
+Anvil/feathers
+  rotate: false
+  xy: 411, 1013
+  size: 26, 7
+  orig: 26, 7
+  offset: 0, 0
+  index: -1
+Anvil/star
+  rotate: false
+  xy: 95, 1016
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Anvil/vertigo0001
+  rotate: false
+  xy: 721, 924
+  size: 38, 18
+  orig: 39, 18
+  offset: 1, 0
+  index: -1
+Anvil/vertigo0002
+  rotate: false
+  xy: 760, 924
+  size: 39, 18
+  orig: 39, 18
+  offset: 0, 0
+  index: -1
+Anvil/vertigo0003
+  rotate: false
+  xy: 823, 923
+  size: 37, 18
+  orig: 39, 18
+  offset: 1, 0
+  index: -1
+Anvil/vertigo0004
+  rotate: false
+  xy: 1, 934
+  size: 38, 17
+  orig: 39, 18
+  offset: 1, 0
+  index: -1
+Blue Egg/Blue Egg
+  rotate: true
+  xy: 669, 905
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+Blue Egg/Egg Wing
+  rotate: false
+  xy: 40, 933
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Blue Egg/gleam
+  rotate: true
+  xy: 66, 982
+  size: 12, 38
+  orig: 12, 39
+  offset: 0, 1
+  index: -1
+Blue Rooster/BlueRooster
+  rotate: true
+  xy: 899, 959
+  size: 15, 34
+  orig: 15, 34
+  offset: 0, 0
+  index: -1
+Blue Rooster/BlueRooster_Closed
+  rotate: false
+  xy: 13, 1017
+  size: 10, 3
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+Blue Rooster/BlueRooster_Open
+  rotate: false
+  xy: 131, 1015
+  size: 8, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+Blue Rooster/BlueRooster_Splash1
+  rotate: true
+  xy: 489, 1002
+  size: 10, 32
+  orig: 10, 32
+  offset: 0, 0
+  index: -1
+Blue Rooster/BlueRooster_Splash2
+  rotate: true
+  xy: 75, 869
+  size: 22, 39
+  orig: 22, 39
+  offset: 0, 0
+  index: -1
+Blue Rooster/BlueRooster_Splash3
+  rotate: false
+  xy: 400, 738
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+CK-47/BangEffect0001
+  rotate: false
+  xy: 1, 375
+  size: 41, 38
+  orig: 105, 95
+  offset: 32, 27
+  index: -1
+CK-47/CK47_Bullet
+  rotate: false
+  xy: 24, 1017
+  size: 14, 3
+  orig: 14, 3
+  offset: 0, 0
+  index: -1
+CK-47/CK47_BulletTrash
+  rotate: false
+  xy: 39, 1017
+  size: 10, 3
+  orig: 10, 3
+  offset: 0, 0
+  index: -1
+CK-47/CK47_Fire1
+  rotate: false
+  xy: 140, 1015
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+CK-47/CK47_Fire2
+  rotate: false
+  xy: 570, 1012
+  size: 21, 8
+  orig: 21, 8
+  offset: 0, 0
+  index: -1
+CK-47/CK47_Fire3
+  rotate: false
+  xy: 861, 923
+  size: 37, 18
+  orig: 37, 18
+  offset: 0, 0
+  index: -1
+CK-47/CK47_Gun
+  rotate: false
+  xy: 900, 345
+  size: 96, 38
+  orig: 110, 38
+  offset: 14, 0
+  index: -1
+CK-47/Electric Flares0001
+  rotate: false
+  xy: 438, 1013
+  size: 10, 7
+  orig: 100, 63
+  offset: 76, 48
+  index: -1
+CK-47/Electric Flares0002
+  rotate: false
+  xy: 990, 972
+  size: 17, 14
+  orig: 100, 63
+  offset: 77, 48
+  index: -1
+CK-47/Electric Flares0003
+  rotate: true
+  xy: 737, 783
+  size: 25, 30
+  orig: 100, 63
+  offset: 70, 33
+  index: -1
+CK-47/Electric Flares0004
+  rotate: true
+  xy: 312, 401
+  size: 37, 38
+  orig: 100, 63
+  offset: 60, 23
+  index: -1
+CK-47/Electric Flares0005
+  rotate: false
+  xy: 45, 249
+  size: 60, 42
+  orig: 100, 63
+  offset: 38, 19
+  index: -1
+CK-47/Electric Flares0006
+  rotate: false
+  xy: 635, 27
+  size: 83, 52
+  orig: 100, 63
+  offset: 17, 9
+  index: -1
+CK-47/Electric Flares0009
+  rotate: false
+  xy: 526, 759
+  size: 53, 26
+  orig: 100, 63
+  offset: 1, 3
+  index: -1
+CK-47/Electric Flares0010
+  rotate: false
+  xy: 694, 904
+  size: 22, 20
+  orig: 100, 63
+  offset: 1, 1
+  index: -1
+CK-47/Electric Flares0011
+  rotate: false
+  xy: 950, 958
+  size: 23, 15
+  orig: 100, 63
+  offset: 0, 1
+  index: -1
+CK-47/Electric Flares0012
+  rotate: true
+  xy: 592, 1012
+  size: 8, 15
+  orig: 100, 63
+  offset: 1, 1
+  index: -1
+CK-47/Electric Flares0013
+  rotate: true
+  xy: 9, 1018
+  size: 2, 3
+  orig: 100, 63
+  offset: 4, 0
+  index: -1
+Coober/Chickencar
+  rotate: false
+  xy: 545, 132
+  size: 90, 46
+  orig: 90, 46
+  offset: 0, 0
+  index: -1
+Coober/car seat
+  rotate: false
+  xy: 147, 868
+  size: 40, 22
+  orig: 40, 22
+  offset: 0, 0
+  index: -1
+Coober/car whell
+  rotate: false
+  xy: 991, 987
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+Coober/car window
+  rotate: false
+  xy: 736, 858
+  size: 48, 23
+  orig: 48, 23
+  offset: 0, 0
+  index: -1
+Coober/iPhone
+  rotate: true
+  xy: 148, 1015
+  size: 5, 10
+  orig: 5, 10
+  offset: 0, 0
+  index: -1
+Dig/Dig_Start_1
+  rotate: true
+  xy: 91, 371
+  size: 38, 40
+  orig: 38, 40
+  offset: 0, 0
+  index: -1
+Dig/Dig_Start_7
+  rotate: false
+  xy: 635, 701
+  size: 157, 27
+  orig: 157, 27
+  offset: 0, 0
+  index: -1
+Dig/Dig_Trail_1
+  rotate: false
+  xy: 449, 1013
+  size: 14, 7
+  orig: 14, 7
+  offset: 0, 0
+  index: -1
+Dig/Dig_Trail_10
+  rotate: false
+  xy: 108, 742
+  size: 129, 26
+  orig: 129, 26
+  offset: 0, 0
+  index: -1
+Dig/Dig_Trail_11
+  rotate: false
+  xy: 149, 891
+  size: 131, 20
+  orig: 131, 20
+  offset: 0, 0
+  index: -1
+Dig/Dig_Trail_2
+  rotate: false
+  xy: 522, 1002
+  size: 22, 10
+  orig: 22, 10
+  offset: 0, 0
+  index: -1
+Dig/Dig_Trail_3
+  rotate: false
+  xy: 53, 967
+  size: 29, 14
+  orig: 29, 14
+  offset: 0, 0
+  index: -1
+Dig/Dig_Trail_4
+  rotate: false
+  xy: 717, 904
+  size: 44, 19
+  orig: 44, 19
+  offset: 0, 0
+  index: -1
+Dig/Dig_Trail_5
+  rotate: false
+  xy: 130, 844
+  size: 75, 23
+  orig: 75, 23
+  offset: 0, 0
+  index: -1
+Dig/Dig_Trail_6
+  rotate: false
+  xy: 524, 731
+  size: 69, 27
+  orig: 69, 27
+  offset: 0, 0
+  index: -1
+Dig/Dig_Trail_7
+  rotate: false
+  xy: 907, 126
+  size: 95, 47
+  orig: 95, 47
+  offset: 0, 0
+  index: -1
+Dig/dirt moving_0
+  rotate: false
+  xy: 105, 981
+  size: 77, 12
+  orig: 99, 26
+  offset: 13, 3
+  index: -1
+Dig/dirt moving_1
+  rotate: false
+  xy: 105, 981
+  size: 77, 12
+  orig: 99, 26
+  offset: 13, 3
+  index: -1
+Dig/dirt moving_2
+  rotate: false
+  xy: 99, 950
+  size: 77, 15
+  orig: 99, 26
+  offset: 13, 1
+  index: -1
+Dig/dirt moving_3
+  rotate: false
+  xy: 177, 949
+  size: 76, 15
+  orig: 99, 26
+  offset: 14, 2
+  index: -1
+Dig/dirt moving_4
+  rotate: false
+  xy: 665, 943
+  size: 79, 16
+  orig: 99, 26
+  offset: 14, 3
+  index: -1
+Dig/dirt moving_5
+  rotate: false
+  xy: 97, 932
+  size: 69, 17
+  orig: 99, 26
+  offset: 19, 2
+  index: -1
+Dig/dirt moving_6
+  rotate: false
+  xy: 23, 914
+  size: 69, 18
+  orig: 99, 26
+  offset: 18, 2
+  index: -1
+Dig/dirt moving_7
+  rotate: false
+  xy: 167, 931
+  size: 63, 17
+  orig: 99, 26
+  offset: 22, 2
+  index: -1
+Dig/dirt moving_8
+  rotate: false
+  xy: 311, 965
+  size: 67, 14
+  orig: 99, 26
+  offset: 21, 2
+  index: -1
+Explosion/explosion0001
+  rotate: false
+  xy: 594, 730
+  size: 41, 27
+  orig: 110, 56
+  offset: 28, 2
+  index: -1
+Explosion/explosion0002
+  rotate: false
+  xy: 225, 619
+  size: 49, 32
+  orig: 110, 56
+  offset: 25, 2
+  index: -1
+Explosion/explosion0003
+  rotate: false
+  xy: 138, 329
+  size: 57, 39
+  orig: 110, 56
+  offset: 24, 1
+  index: -1
+Explosion/explosion0004
+  rotate: false
+  xy: 1, 111
+  size: 85, 47
+  orig: 110, 56
+  offset: 13, 3
+  index: -1
+Explosion/explosion0005
+  rotate: false
+  xy: 260, 95
+  size: 90, 48
+  orig: 110, 56
+  offset: 10, 3
+  index: -1
+Explosion/explosion0006
+  rotate: false
+  xy: 538, 30
+  size: 96, 50
+  orig: 110, 56
+  offset: 7, 3
+  index: -1
+Explosion/explosion0007
+  rotate: false
+  xy: 783, 24
+  size: 101, 51
+  orig: 110, 56
+  offset: 4, 3
+  index: -1
+Explosion/explosion0008
+  rotate: false
+  xy: 885, 23
+  size: 105, 52
+  orig: 110, 56
+  offset: 2, 3
+  index: -1
+Explosion/explosion0009
+  rotate: false
+  xy: 481, 673
+  size: 65, 29
+  orig: 110, 56
+  offset: 22, 21
+  index: -1
+Explosion/explosion0010
+  rotate: false
+  xy: 654, 757
+  size: 59, 26
+  orig: 110, 56
+  offset: 28, 24
+  index: -1
+FanGroup/Press hat
+  rotate: false
+  xy: 971, 899
+  size: 33, 20
+  orig: 33, 20
+  offset: 0, 0
+  index: -1
+FanGroup/camera
+  rotate: false
+  xy: 58, 933
+  size: 38, 17
+  orig: 38, 17
+  offset: 0, 0
+  index: -1
+FanGroup/camera splash
+  rotate: true
+  xy: 893, 880
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+FanGroup/heart_1
+  rotate: true
+  xy: 800, 924
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+FanGroup/heart_2
+  rotate: true
+  xy: 974, 956
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+FanGroup/heart_3
+  rotate: true
+  xy: 678, 989
+  size: 11, 17
+  orig: 11, 17
+  offset: 0, 0
+  index: -1
+FanGroup/notebook
+  rotate: true
+  xy: 580, 759
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+FanGroup/pen
+  rotate: true
+  xy: 50, 1017
+  size: 3, 29
+  orig: 3, 29
+  offset: 0, 0
+  index: -1
+FanGroup/photo camera
+  rotate: false
+  xy: 540, 862
+  size: 37, 23
+  orig: 37, 23
+  offset: 0, 0
+  index: -1
+Feather Rain/Feather_1
+  rotate: true
+  xy: 565, 1001
+  size: 10, 38
+  orig: 10, 38
+  offset: 0, 0
+  index: -1
+Feather Rain/Feather_2
+  rotate: true
+  xy: 604, 1001
+  size: 10, 38
+  orig: 10, 38
+  offset: 0, 0
+  index: -1
+Feather Rain/Feather_3
+  rotate: true
+  xy: 643, 1001
+  size: 10, 37
+  orig: 10, 37
+  offset: 0, 0
+  index: -1
+Feather Rain/WalkieTalkie
+  rotate: true
+  xy: 203, 980
+  size: 12, 35
+  orig: 12, 35
+  offset: 0, 0
+  index: -1
+Growth/Dust_cloud/dust0001
+  rotate: false
+  xy: 968, 1011
+  size: 26, 9
+  orig: 29, 12
+  offset: 1, 0
+  index: -1
+Growth/Dust_cloud/dust0002
+  rotate: false
+  xy: 995, 1011
+  size: 27, 9
+  orig: 29, 12
+  offset: 1, 1
+  index: -1
+Growth/Dust_cloud/dust0003
+  rotate: false
+  xy: 12, 1007
+  size: 29, 9
+  orig: 29, 12
+  offset: 0, 3
+  index: -1
+Growth/Dust_cloud/dust0004
+  rotate: false
+  xy: 159, 1015
+  size: 29, 5
+  orig: 29, 12
+  offset: 0, 7
+  index: -1
+Growth/Magic_effect/magic effect0001
+  rotate: false
+  xy: 306, 144
+  size: 58, 46
+  orig: 127, 88
+  offset: 10, 36
+  index: -1
+Growth/Magic_effect/magic effect0002
+  rotate: false
+  xy: 913, 220
+  size: 60, 43
+  orig: 127, 88
+  offset: 8, 37
+  index: -1
+Growth/Magic_effect/magic effect0011
+  rotate: false
+  xy: 883, 305
+  size: 99, 39
+  orig: 127, 88
+  offset: 25, 46
+  index: -1
+Growth/Magic_effect/magic effect0019
+  rotate: true
+  xy: 762, 904
+  size: 19, 34
+  orig: 127, 88
+  offset: 2, 15
+  index: -1
+Growth/bottle of potion
+  rotate: true
+  xy: 696, 989
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+Growth/stars
+  rotate: false
+  xy: 797, 903
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+Machete/Machete
+  rotate: true
+  xy: 188, 868
+  size: 22, 66
+  orig: 22, 66
+  offset: 0, 0
+  index: -1
+Machete/circle
+  rotate: false
+  xy: 335, 680
+  size: 35, 29
+  orig: 115, 65
+  offset: 38, 19
+  index: -1
+Machete/effect
+  rotate: false
+  xy: 899, 923
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+Machete/effect2
+  rotate: true
+  xy: 713, 989
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+Machete/effect4
+  rotate: false
+  xy: 396, 1003
+  size: 13, 10
+  orig: 13, 26
+  offset: 0, 0
+  index: -1
+Machete/swing_machete
+  rotate: true
+  xy: 296, 191
+  size: 43, 78
+  orig: 43, 78
+  offset: 0, 0
+  index: -1
+Machete/swing_machete_2
+  rotate: true
+  xy: 351, 92
+  size: 48, 74
+  orig: 48, 74
+  offset: 0, 0
+  index: -1
+Machete/x
+  rotate: true
+  xy: 215, 1014
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+Moving Walkway/glow
+  rotate: false
+  xy: 297, 711
+  size: 28, 28
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+Rollerblades/Speed_effect
+  rotate: true
+  xy: 106, 245
+  size: 42, 44
+  orig: 44, 44
+  offset: 2, 0
+  index: -1
+Rollerblades/Speed_effect_2
+  rotate: false
+  xy: 505, 431
+  size: 86, 36
+  orig: 86, 36
+  offset: 0, 0
+  index: -1
+Rollerblades/Star
+  rotate: false
+  xy: 429, 737
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+Rollerblades/WhiteStar
+  rotate: false
+  xy: 464, 1013
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+Rollerblades/WhiteStar_2
+  rotate: false
+  xy: 464, 1013
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+Rollerblades/ramp
+  rotate: false
+  xy: 768, 783
+  size: 48, 25
+  orig: 48, 25
+  offset: 0, 0
+  index: -1
+Rollerblades/roller
+  rotate: false
+  xy: 623, 944
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+Royal Procession/body_horse
+  rotate: false
+  xy: 597, 179
+  size: 80, 44
+  orig: 80, 44
+  offset: 0, 0
+  index: -1
+Royal Procession/british hat
+  rotate: true
+  xy: 500, 354
+  size: 38, 49
+  orig: 38, 49
+  offset: 0, 0
+  index: -1
+Royal Procession/cart_1
+  rotate: false
+  xy: 320, 278
+  size: 102, 39
+  orig: 102, 39
+  offset: 0, 0
+  index: -1
+Royal Procession/cart_2
+  rotate: false
+  xy: 907, 174
+  size: 77, 45
+  orig: 77, 45
+  offset: 0, 0
+  index: -1
+Royal Procession/head_horse
+  rotate: true
+  xy: 192, 97
+  size: 47, 67
+  orig: 47, 75
+  offset: 0, 8
+  index: -1
+Royal Procession/leg_horse_1
+  rotate: true
+  xy: 745, 943
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+Royal Procession/leg_horse_2
+  rotate: true
+  xy: 567, 976
+  size: 13, 38
+  orig: 13, 38
+  offset: 0, 0
+  index: -1
+Royal Procession/leg_horse_3
+  rotate: true
+  xy: 459, 356
+  size: 39, 40
+  orig: 39, 40
+  offset: 0, 0
+  index: -1
+Royal Procession/leg_horse_4
+  rotate: true
+  xy: 158, 966
+  size: 14, 36
+  orig: 14, 36
+  offset: 0, 0
+  index: -1
+Royal Procession/neck_horse
+  rotate: true
+  xy: 404, 37
+  size: 51, 63
+  orig: 51, 63
+  offset: 0, 0
+  index: -1
+Royal Procession/reins
+  rotate: false
+  xy: 254, 949
+  size: 66, 15
+  orig: 66, 15
+  offset: 0, 0
+  index: -1
+Royal Procession/reins_2
+  rotate: false
+  xy: 681, 1001
+  size: 62, 10
+  orig: 62, 10
+  offset: 0, 0
+  index: -1
+Royal Procession/tail_horse
+  rotate: true
+  xy: 155, 587
+  size: 33, 56
+  orig: 35, 56
+  offset: 1, 0
+  index: -1
+Royal Procession/wheel_1
+  rotate: true
+  xy: 550, 181
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+Royal Procession/wheel_2
+  rotate: false
+  xy: 338, 511
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+Tank/Tank_1
+  rotate: false
+  xy: 645, 944
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+Tank/Tank_2
+  rotate: true
+  xy: 608, 502
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+Tank/Tank_glass light
+  rotate: true
+  xy: 992, 956
+  size: 15, 27
+  orig: 15, 27
+  offset: 0, 0
+  index: -1
+Tank/bubble
+  rotate: false
+  xy: 189, 1015
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+Tank/bubble2
+  rotate: false
+  xy: 195, 1015
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+Teleport/electric effect0001
+  rotate: true
+  xy: 145, 198
+  size: 44, 53
+  orig: 140, 129
+  offset: 91, 42
+  index: -1
+Teleport/electric effect0002
+  rotate: true
+  xy: 426, 89
+  size: 48, 57
+  orig: 140, 129
+  offset: 91, 42
+  index: -1
+Teleport/electric effect0003
+  rotate: true
+  xy: 365, 141
+  size: 46, 60
+  orig: 140, 129
+  offset: 88, 42
+  index: -1
+Teleport/electric effect0004
+  rotate: false
+  xy: 619, 81
+  size: 55, 49
+  orig: 140, 129
+  offset: 80, 55
+  index: -1
+Teleport/red button
+  rotate: false
+  xy: 1, 624
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Teleport/teleport_ circle
+  rotate: false
+  xy: 473, 1013
+  size: 26, 7
+  orig: 26, 7
+  offset: 0, 0
+  index: -1
+Teleport/teleport_ dematerialising
+  rotate: true
+  xy: 413, 889
+  size: 21, 42
+  orig: 21, 51
+  offset: 0, 0
+  index: -1
+Teleport/teleport_ dematerialising_2
+  rotate: true
+  xy: 456, 888
+  size: 21, 42
+  orig: 21, 51
+  offset: 0, 0
+  index: -1
+Teleport/teleport_ dematerialising_light
+  rotate: true
+  xy: 944, 922
+  size: 18, 28
+  orig: 18, 30
+  offset: 0, 2
+  index: -1
+Teleport/teleport_ white floor
+  rotate: false
+  xy: 500, 1013
+  size: 21, 7
+  orig: 21, 7
+  offset: 0, 0
+  index: -1
+accessorries and effects/Bang/Bang0001
+  rotate: false
+  xy: 231, 931
+  size: 17, 17
+  orig: 28, 26
+  offset: 6, 4
+  index: -1
+accessorries and effects/Bang/Bang0002
+  rotate: false
+  xy: 52, 870
+  size: 22, 22
+  orig: 28, 26
+  offset: 3, 2
+  index: -1
+accessorries and effects/Bang/Bang0003
+  rotate: false
+  xy: 817, 782
+  size: 26, 25
+  orig: 28, 26
+  offset: 1, 0
+  index: -1
+accessorries and effects/Bang/Bang0004
+  rotate: false
+  xy: 379, 766
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+accessorries and effects/Bang/Bang0005
+  rotate: false
+  xy: 441, 765
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+accessorries and effects/Bang/Bang0006
+  rotate: false
+  xy: 536, 837
+  size: 28, 24
+  orig: 28, 26
+  offset: 0, 2
+  index: -1
+accessorries and effects/Bang/Bang0007
+  rotate: false
+  xy: 973, 920
+  size: 28, 18
+  orig: 28, 26
+  offset: 0, 2
+  index: -1
+accessorries and effects/Bang/Bang0008
+  rotate: false
+  xy: 924, 923
+  size: 19, 18
+  orig: 28, 26
+  offset: 5, 2
+  index: -1
+accessorries and effects/Bang/Bang0009
+  rotate: false
+  xy: 249, 931
+  size: 20, 17
+  orig: 28, 26
+  offset: 5, 3
+  index: -1
+accessorries and effects/Bang/Bang0010
+  rotate: false
+  xy: 1002, 920
+  size: 21, 18
+  orig: 28, 26
+  offset: 4, 3
+  index: -1
+accessorries and effects/Bang/Bang0011
+  rotate: false
+  xy: 1, 915
+  size: 21, 18
+  orig: 28, 26
+  offset: 4, 3
+  index: -1
+accessorries and effects/Bang/Bang0012
+  rotate: false
+  xy: 93, 913
+  size: 21, 18
+  orig: 28, 26
+  offset: 4, 3
+  index: -1
+accessorries and effects/Bang/Bang0013
+  rotate: false
+  xy: 115, 913
+  size: 21, 18
+  orig: 28, 26
+  offset: 4, 3
+  index: -1
+accessorries and effects/Bang/Bang0014
+  rotate: false
+  xy: 137, 913
+  size: 21, 18
+  orig: 28, 26
+  offset: 4, 3
+  index: -1
+accessorries and effects/Bang/Bang0015
+  rotate: false
+  xy: 159, 912
+  size: 21, 18
+  orig: 28, 26
+  offset: 4, 3
+  index: -1
+accessorries and effects/Costumes/BawkersCheerleaderDress
+  rotate: false
+  xy: 468, 33
+  size: 69, 52
+  orig: 69, 52
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/Body2Shirt
+  rotate: false
+  xy: 621, 538
+  size: 46, 34
+  orig: 46, 34
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyArcticCamouflage
+  rotate: false
+  xy: 113, 288
+  size: 54, 40
+  orig: 54, 40
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyBananaSkin
+  rotate: false
+  xy: 426, 138
+  size: 63, 46
+  orig: 63, 46
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyBard
+  rotate: false
+  xy: 592, 429
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyBawkersSPShirt
+  rotate: false
+  xy: 351, 397
+  size: 49, 37
+  orig: 49, 37
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyBawkersShirt
+  rotate: false
+  xy: 275, 618
+  size: 41, 32
+  orig: 41, 32
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyBirthdayChickDress
+  rotate: false
+  xy: 675, 80
+  size: 60, 49
+  orig: 60, 49
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyBlackStarsShirt
+  rotate: false
+  xy: 212, 585
+  size: 45, 33
+  orig: 45, 33
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyBlueStrikersShirt
+  rotate: false
+  xy: 317, 615
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyBlueWhiteLeotard
+  rotate: false
+  xy: 668, 537
+  size: 45, 34
+  orig: 45, 34
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyCenturionToga
+  rotate: false
+  xy: 714, 536
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyCoolLeatherJacket
+  rotate: false
+  xy: 401, 397
+  size: 49, 37
+  orig: 49, 37
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyCorporalDressCoat
+  rotate: false
+  xy: 461, 434
+  size: 43, 36
+  orig: 43, 36
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyCrushedVelvetFuschiaSuit
+  rotate: false
+  xy: 756, 534
+  size: 48, 34
+  orig: 48, 34
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyCrushedVelvetGoldHoodie
+  rotate: false
+  xy: 550, 352
+  size: 48, 38
+  orig: 48, 38
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyDesertCamouflage
+  rotate: false
+  xy: 847, 533
+  size: 46, 34
+  orig: 46, 34
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyDoctorsBlueScrubs
+  rotate: false
+  xy: 258, 584
+  size: 43, 33
+  orig: 43, 33
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyDragon
+  rotate: false
+  xy: 540, 83
+  size: 78, 48
+  orig: 78, 48
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyDukeRidingCoat
+  rotate: false
+  xy: 500, 393
+  size: 54, 37
+  orig: 54, 37
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyEggomaniacsHoodie
+  rotate: false
+  xy: 363, 615
+  size: 41, 32
+  orig: 41, 32
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyFancy
+  rotate: false
+  xy: 599, 351
+  size: 57, 38
+  orig: 57, 38
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyFastbeaksShirt
+  rotate: false
+  xy: 405, 610
+  size: 41, 32
+  orig: 41, 32
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyFirefightersCoat
+  rotate: false
+  xy: 641, 428
+  size: 46, 36
+  orig: 46, 36
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyFirstBirthday
+  rotate: false
+  xy: 168, 286
+  size: 51, 40
+  orig: 51, 40
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyGoldSpaceSuit
+  rotate: false
+  xy: 650, 501
+  size: 47, 35
+  orig: 47, 35
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyGorillaCostume
+  rotate: false
+  xy: 698, 500
+  size: 43, 35
+  orig: 43, 35
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyGreatWhiteShark
+  rotate: true
+  xy: 860, 175
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyGreenFieldsShirt
+  rotate: false
+  xy: 447, 609
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyGrilledSteak
+  rotate: false
+  xy: 878, 497
+  size: 46, 35
+  orig: 46, 35
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyHeroCowboyJacket
+  rotate: false
+  xy: 931, 530
+  size: 47, 34
+  orig: 47, 34
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyHeroCrusader
+  rotate: true
+  xy: 371, 679
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyHeroInventive
+  rotate: true
+  xy: 407, 677
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyHeroNoble
+  rotate: true
+  xy: 147, 655
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyHeroPurified
+  rotate: true
+  xy: 444, 675
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyHeroVigilante
+  rotate: true
+  xy: 547, 673
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyHippoCostume
+  rotate: false
+  xy: 729, 426
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyKillerWhale
+  rotate: false
+  xy: 151, 243
+  size: 47, 42
+  orig: 47, 42
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyKnightsBreastplace
+  rotate: false
+  xy: 979, 530
+  size: 44, 34
+  orig: 44, 34
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyLederhosenSuit
+  rotate: false
+  xy: 302, 581
+  size: 44, 33
+  orig: 44, 33
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyLegionaireToga
+  rotate: false
+  xy: 805, 534
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyLionCostume
+  rotate: false
+  xy: 69, 484
+  size: 44, 35
+  orig: 44, 35
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyLochmabenKilt
+  rotate: false
+  xy: 1, 60
+  size: 64, 50
+  orig: 64, 50
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyMasterRidingCoat
+  rotate: false
+  xy: 750, 222
+  size: 55, 43
+  orig: 55, 43
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyModernKilt
+  rotate: false
+  xy: 678, 178
+  size: 64, 44
+  orig: 64, 44
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyMonk
+  rotate: false
+  xy: 347, 581
+  size: 42, 33
+  orig: 42, 33
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyMonsterCoat
+  rotate: false
+  xy: 182, 480
+  size: 48, 35
+  orig: 48, 35
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyMountainCamouflage
+  rotate: false
+  xy: 390, 576
+  size: 47, 33
+  orig: 47, 33
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyMutantApe
+  rotate: false
+  xy: 1, 522
+  size: 44, 34
+  orig: 44, 34
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyMutantChicken
+  rotate: false
+  xy: 220, 283
+  size: 45, 40
+  orig: 45, 40
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyMutantOutfit
+  rotate: false
+  xy: 688, 427
+  size: 40, 36
+  orig: 40, 36
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyMutantTurtle
+  rotate: false
+  xy: 199, 240
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyNarhwal
+  rotate: false
+  xy: 127, 518
+  size: 42, 34
+  orig: 42, 34
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyOpenRedHawaiianShirt
+  rotate: false
+  xy: 294, 512
+  size: 43, 34
+  orig: 43, 34
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyOrangeSportsbra
+  rotate: false
+  xy: 429, 707
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyOrchidRidingCoat
+  rotate: false
+  xy: 657, 350
+  size: 50, 38
+  orig: 50, 38
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyOutlawCowboyCoat
+  rotate: false
+  xy: 555, 391
+  size: 55, 37
+  orig: 55, 37
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyPantomimeDonkeyBody
+  rotate: false
+  xy: 231, 479
+  size: 52, 35
+  orig: 52, 35
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyPilgrimApron
+  rotate: false
+  xy: 266, 281
+  size: 53, 40
+  orig: 53, 40
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyPilgrimDoublet
+  rotate: false
+  xy: 778, 425
+  size: 46, 36
+  orig: 46, 36
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyPoliceOfficersShirt
+  rotate: false
+  xy: 544, 573
+  size: 44, 33
+  orig: 44, 33
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyPoweredPoultrySPShirt
+  rotate: false
+  xy: 284, 476
+  size: 47, 35
+  orig: 47, 35
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyPrinceSuit
+  rotate: false
+  xy: 493, 609
+  size: 42, 32
+  orig: 42, 32
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyPrincessDress
+  rotate: false
+  xy: 248, 238
+  size: 53, 42
+  orig: 53, 42
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyPurpleBallroomDress
+  rotate: false
+  xy: 736, 79
+  size: 59, 49
+  orig: 59, 49
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyPurpleGreenWindbreaker
+  rotate: false
+  xy: 374, 507
+  size: 46, 34
+  orig: 46, 34
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyQueenGown
+  rotate: false
+  xy: 1, 159
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyRastaBaja
+  rotate: false
+  xy: 451, 396
+  size: 48, 37
+  orig: 48, 37
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyRastaDress
+  rotate: false
+  xy: 636, 131
+  size: 62, 46
+  orig: 62, 46
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyRedAvengersShirt
+  rotate: false
+  xy: 575, 607
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyRegalToga
+  rotate: false
+  xy: 85, 520
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyRenegadeCowboyPoncho
+  rotate: false
+  xy: 825, 425
+  size: 44, 36
+  orig: 44, 36
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyRibFleece
+  rotate: false
+  xy: 604, 268
+  size: 53, 41
+  orig: 53, 41
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyRogue
+  rotate: false
+  xy: 589, 573
+  size: 42, 33
+  orig: 42, 33
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyRoseRidingCoat
+  rotate: false
+  xy: 611, 390
+  size: 57, 37
+  orig: 57, 37
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyRosewellKilt
+  rotate: false
+  xy: 66, 54
+  size: 67, 50
+  orig: 67, 50
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodySantaCoat
+  rotate: false
+  xy: 669, 389
+  size: 52, 37
+  orig: 52, 37
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodySergeant
+  rotate: true
+  xy: 583, 673
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodySilverSpaceSuit
+  rotate: false
+  xy: 370, 471
+  size: 47, 35
+  orig: 47, 35
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodySilverWizard
+  rotate: false
+  xy: 302, 235
+  size: 50, 42
+  orig: 50, 42
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodySpottyDog
+  rotate: false
+  xy: 421, 507
+  size: 44, 34
+  orig: 44, 34
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyStonehavenKilt
+  rotate: false
+  xy: 840, 127
+  size: 66, 47
+  orig: 66, 47
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyStrangerCowobyShirt
+  rotate: false
+  xy: 466, 507
+  size: 45, 34
+  orig: 45, 34
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyStreakyBaconSuit
+  rotate: false
+  xy: 196, 327
+  size: 52, 39
+  orig: 52, 39
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyTellusMaterToga
+  rotate: false
+  xy: 170, 518
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyToxicMutant
+  rotate: false
+  xy: 418, 471
+  size: 44, 35
+  orig: 44, 35
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyTweedRidingCoat
+  rotate: false
+  xy: 708, 349
+  size: 50, 38
+  orig: 50, 38
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyVelitesToga
+  rotate: false
+  xy: 212, 516
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyWhiteRocketsShirt
+  rotate: false
+  xy: 621, 607
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyWingedWarriorsJacket
+  rotate: false
+  xy: 667, 607
+  size: 41, 32
+  orig: 41, 32
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyWitch'sCloak
+  rotate: false
+  xy: 249, 324
+  size: 45, 39
+  orig: 45, 39
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/ClickityChicksCheerleaderDress
+  rotate: false
+  xy: 719, 26
+  size: 63, 52
+  orig: 63, 52
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/EggomaniacsCheerleaderDress
+  rotate: false
+  xy: 1, 7
+  size: 64, 52
+  orig: 64, 52
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/LuckyCluckersCheerleaderDress
+  rotate: false
+  xy: 796, 77
+  size: 68, 49
+  orig: 68, 49
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/sleeves
+  rotate: false
+  xy: 470, 763
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+accessorries and effects/Point of blue light/Blue energy ball0001
+  rotate: false
+  xy: 270, 931
+  size: 23, 17
+  orig: 53, 43
+  offset: 12, 13
+  index: -1
+accessorries and effects/Point of blue light/Blue energy ball0002
+  rotate: false
+  xy: 181, 912
+  size: 23, 18
+  orig: 53, 43
+  offset: 15, 12
+  index: -1
+accessorries and effects/Point of blue light/Blue energy ball0003
+  rotate: false
+  xy: 23, 893
+  size: 36, 20
+  orig: 53, 43
+  offset: 3, 11
+  index: -1
+accessorries and effects/Point of blue light/Blue energy ball0004
+  rotate: false
+  xy: 87, 892
+  size: 36, 20
+  orig: 53, 43
+  offset: 3, 11
+  index: -1
+accessorries and effects/Point of blue light/Blue energy ball0005
+  rotate: false
+  xy: 578, 861
+  size: 34, 23
+  orig: 53, 43
+  offset: 3, 9
+  index: -1
+accessorries and effects/Point of blue light/Blue energy ball0006
+  rotate: false
+  xy: 115, 869
+  size: 31, 22
+  orig: 53, 43
+  offset: 3, 9
+  index: -1
+accessorries and effects/Point of blue light/Blue energy ball0007
+  rotate: false
+  xy: 330, 648
+  size: 31, 31
+  orig: 53, 43
+  offset: 3, 8
+  index: -1
+accessorries and effects/Point of blue light/Blue energy ball0008
+  rotate: false
+  xy: 263, 683
+  size: 32, 29
+  orig: 53, 43
+  offset: 3, 4
+  index: -1
+accessorries and effects/Point of blue light/Blue energy ball0009
+  rotate: false
+  xy: 459, 705
+  size: 31, 29
+  orig: 53, 43
+  offset: 4, 3
+  index: -1
+accessorries and effects/Point of blue light/Blue energy ball0010
+  rotate: false
+  xy: 405, 645
+  size: 33, 31
+  orig: 53, 43
+  offset: 4, 3
+  index: -1
+accessorries and effects/Point of blue light/Blue energy ball0011
+  rotate: false
+  xy: 439, 643
+  size: 38, 31
+  orig: 53, 43
+  offset: 7, 5
+  index: -1
+accessorries and effects/Point of blue light/Blue energy ball0012
+  rotate: false
+  xy: 619, 671
+  size: 43, 29
+  orig: 53, 43
+  offset: 7, 9
+  index: -1
+accessorries and effects/Point of blue light/Blue energy ball0013
+  rotate: false
+  xy: 463, 471
+  size: 43, 35
+  orig: 53, 43
+  offset: 7, 5
+  index: -1
+accessorries and effects/Point of blue light/Blue energy ball0014
+  rotate: false
+  xy: 142, 446
+  size: 36, 36
+  orig: 53, 43
+  offset: 14, 5
+  index: -1
+accessorries and effects/Point of blue light/Blue energy ball0015
+  rotate: false
+  xy: 184, 653
+  size: 37, 30
+  orig: 53, 43
+  offset: 13, 4
+  index: -1
+accessorries and effects/Point of blue light/Blue energy ball0016
+  rotate: false
+  xy: 222, 653
+  size: 39, 30
+  orig: 53, 43
+  offset: 11, 4
+  index: -1
+accessorries and effects/Point of blue light/Blue energy ball0017
+  rotate: false
+  xy: 714, 756
+  size: 40, 26
+  orig: 53, 43
+  offset: 10, 7
+  index: -1
+accessorries and effects/Point of blue light/Blue energy ball0018
+  rotate: false
+  xy: 755, 756
+  size: 41, 26
+  orig: 53, 43
+  offset: 9, 7
+  index: -1
+accessorries and effects/Point of blue light/Blue energy ball0019
+  rotate: false
+  xy: 565, 836
+  size: 37, 24
+  orig: 53, 43
+  offset: 11, 8
+  index: -1
+accessorries and effects/Point of blue light/Blue energy ball0020
+  rotate: false
+  xy: 844, 782
+  size: 35, 25
+  orig: 53, 43
+  offset: 13, 8
+  index: -1
+accessorries and effects/Point of blue light/Blue energy ball0021
+  rotate: false
+  xy: 613, 860
+  size: 33, 23
+  orig: 53, 43
+  offset: 13, 10
+  index: -1
+accessorries and effects/Point of blue light/Blue energy ball0022
+  rotate: false
+  xy: 647, 859
+  size: 28, 23
+  orig: 53, 43
+  offset: 12, 10
+  index: -1
+accessorries and effects/Point of blue light/Blue energy ball0023
+  rotate: false
+  xy: 845, 857
+  size: 23, 23
+  orig: 53, 43
+  offset: 13, 10
+  index: -1
+accessorries and effects/Point of blue light/Blue energy ball0024
+  rotate: false
+  xy: 869, 857
+  size: 23, 23
+  orig: 53, 43
+  offset: 13, 10
+  index: -1
+accessorries and effects/Point of blue light/Blue energy ball0025
+  rotate: false
+  xy: 1, 847
+  size: 23, 23
+  orig: 53, 43
+  offset: 13, 10
+  index: -1
+accessorries and effects/Point of blue light/Blue energy ball0026
+  rotate: false
+  xy: 603, 835
+  size: 24, 24
+  orig: 53, 43
+  offset: 13, 9
+  index: -1
+accessorries and effects/Point of blue light/Blue energy ball0027
+  rotate: true
+  xy: 25, 847
+  size: 23, 24
+  orig: 53, 43
+  offset: 13, 9
+  index: -1
+accessorries and effects/Point of blue light/Blue energy ball0028
+  rotate: false
+  xy: 688, 834
+  size: 34, 24
+  orig: 43, 28
+  offset: 7, 2
+  index: -1
+accessorries and effects/Point of blue light/Blue energy ball0029
+  rotate: false
+  xy: 903, 832
+  size: 36, 24
+  orig: 44, 28
+  offset: 6, 2
+  index: -1
+accessorries and effects/Point of blue light/Blue energy ball0030
+  rotate: false
+  xy: 1, 822
+  size: 37, 24
+  orig: 46, 28
+  offset: 7, 2
+  index: -1
+accessorries and effects/Smoke/Smoke0001
+  rotate: false
+  xy: 545, 1002
+  size: 19, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+accessorries and effects/Smoke/Smoke0002
+  rotate: false
+  xy: 744, 1001
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+accessorries and effects/Smoke/Smoke0003
+  rotate: false
+  xy: 765, 1001
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+accessorries and effects/Smoke/Smoke0004
+  rotate: false
+  xy: 786, 1001
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+accessorries and effects/Smoke/Smoke0005
+  rotate: false
+  xy: 807, 1001
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+accessorries and effects/Smoke/Smoke0006
+  rotate: false
+  xy: 828, 1001
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+accessorries and effects/Smoke/Smoke0007
+  rotate: false
+  xy: 849, 1001
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+accessorries and effects/Z
+  rotate: true
+  xy: 1, 1008
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+accessorries and effects/beackAccessory/Ring
+  rotate: false
+  xy: 201, 1015
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+accessorries and effects/beackAccessory/Rose
+  rotate: false
+  xy: 379, 964
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+accessorries and effects/beackAccessory/Toothpick
+  rotate: false
+  xy: 223, 1014
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+accessorries and effects/beackAccessory/Vampire
+  rotate: false
+  xy: 100, 1016
+  size: 5, 4
+  orig: 5, 4
+  offset: 0, 0
+  index: -1
+accessorries and effects/glasses/EyesArcticGlasses
+  rotate: false
+  xy: 43, 983
+  size: 22, 12
+  orig: 22, 12
+  offset: 0, 0
+  index: -1
+accessorries and effects/glasses/EyesBawkersShades
+  rotate: false
+  xy: 403, 964
+  size: 28, 14
+  orig: 28, 14
+  offset: 0, 0
+  index: -1
+accessorries and effects/glasses/EyesCluckulusHeadset
+  rotate: false
+  xy: 432, 964
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+accessorries and effects/glasses/EyesEggomaniacsGlasses
+  rotate: false
+  xy: 1, 952
+  size: 28, 15
+  orig: 28, 15
+  offset: 0, 0
+  index: -1
+accessorries and effects/glasses/EyesFireGlasses
+  rotate: false
+  xy: 294, 931
+  size: 30, 17
+  orig: 30, 17
+  offset: 0, 0
+  index: -1
+accessorries and effects/glasses/EyesGherkinGlasses
+  rotate: false
+  xy: 778, 943
+  size: 29, 16
+  orig: 29, 16
+  offset: 0, 0
+  index: -1
+accessorries and effects/glasses/EyesLuckyCluckersSPGlasses
+  rotate: false
+  xy: 606, 976
+  size: 23, 13
+  orig: 23, 13
+  offset: 0, 0
+  index: -1
+accessorries and effects/glasses/EyesMutantTurtle
+  rotate: false
+  xy: 255, 868
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+accessorries and effects/glasses/EyesPineappleSunglasses
+  rotate: false
+  xy: 60, 893
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+accessorries and effects/glasses/EyesPoweredPoultrySPEyeglass
+  rotate: true
+  xy: 124, 892
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+accessorries and effects/glasses/EyesPrinceReadingAids
+  rotate: false
+  xy: 42, 1007
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+accessorries and effects/glasses/EyesRastaSunglasses
+  rotate: false
+  xy: 630, 976
+  size: 26, 13
+  orig: 26, 13
+  offset: 0, 0
+  index: -1
+accessorries and effects/glasses/EyesSantaGlasses
+  rotate: false
+  xy: 608, 1012
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+accessorries and effects/glasses/EyesStarGlasses
+  rotate: false
+  xy: 880, 781
+  size: 34, 25
+  orig: 34, 25
+  offset: 0, 0
+  index: -1
+accessorries and effects/glasses/EyesVintageShades
+  rotate: false
+  xy: 239, 980
+  size: 25, 12
+  orig: 25, 12
+  offset: 0, 0
+  index: -1
+accessorries and effects/glasses/EyesWitch'sSpectacles
+  rotate: false
+  xy: 325, 931
+  size: 28, 17
+  orig: 28, 17
+  offset: 0, 0
+  index: -1
+accessorries and effects/glasses/GlassesCool
+  rotate: false
+  xy: 457, 964
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+accessorries and effects/glasses/GlassesDark
+  rotate: false
+  xy: 808, 943
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+accessorries and effects/glasses/GlassesFancy
+  rotate: true
+  xy: 83, 967
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+accessorries and effects/glasses/GlassesGeek
+  rotate: false
+  xy: 835, 942
+  size: 27, 16
+  orig: 27, 16
+  offset: 0, 0
+  index: -1
+accessorries and effects/glasses/GlassesGrouchos
+  rotate: false
+  xy: 915, 779
+  size: 35, 25
+  orig: 35, 25
+  offset: 0, 0
+  index: -1
+accessorries and effects/glasses/GlassesHeart
+  rotate: false
+  xy: 354, 930
+  size: 32, 17
+  orig: 32, 17
+  offset: 0, 0
+  index: -1
+accessorries and effects/glasses/GlassesHeroCrusader
+  rotate: false
+  xy: 99, 821
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+accessorries and effects/glasses/GlassesHeroInventive
+  rotate: false
+  xy: 490, 815
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+accessorries and effects/glasses/GlassesHeroNoble
+  rotate: false
+  xy: 521, 812
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+accessorries and effects/glasses/GlassesHeroPurified
+  rotate: false
+  xy: 552, 811
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+accessorries and effects/glasses/GlassesHeroVigilante
+  rotate: false
+  xy: 643, 810
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+accessorries and effects/glasses/GlassesLibrary
+  rotate: false
+  xy: 51, 951
+  size: 26, 15
+  orig: 26, 15
+  offset: 0, 0
+  index: -1
+accessorries and effects/glasses/GlassesSki
+  rotate: false
+  xy: 205, 912
+  size: 29, 18
+  orig: 29, 18
+  offset: 0, 0
+  index: -1
+accessorries and effects/glasses/StreakyBaconGlasses
+  rotate: false
+  xy: 676, 975
+  size: 29, 13
+  orig: 29, 13
+  offset: 0, 0
+  index: -1
+accessorries and effects/gun/rocket
+  rotate: false
+  xy: 321, 949
+  size: 30, 15
+  orig: 30, 15
+  offset: 0, 0
+  index: -1
+accessorries and effects/gun/rocket launcher
+  rotate: false
+  xy: 674, 809
+  size: 88, 24
+  orig: 88, 24
+  offset: 0, 0
+  index: -1
+accessorries and effects/gun/rocket_smoke0001
+  rotate: true
+  xy: 50, 846
+  size: 23, 24
+  orig: 48, 46
+  offset: 25, 11
+  index: -1
+accessorries and effects/gun/rocket_smoke0002
+  rotate: true
+  xy: 326, 711
+  size: 28, 33
+  orig: 48, 46
+  offset: 18, 7
+  index: -1
+accessorries and effects/gun/rocket_smoke0003
+  rotate: true
+  xy: 759, 348
+  size: 38, 44
+  orig: 48, 46
+  offset: 10, 1
+  index: -1
+accessorries and effects/gun/rocket_smoke0004
+  rotate: true
+  xy: 703, 223
+  size: 43, 46
+  orig: 48, 46
+  offset: 5, 0
+  index: -1
+accessorries and effects/gun/rocket_smoke0005
+  rotate: false
+  xy: 99, 200
+  size: 45, 44
+  orig: 48, 46
+  offset: 2, 2
+  index: -1
+accessorries and effects/gun/rocket_smoke0006
+  rotate: true
+  xy: 729, 989
+  size: 11, 17
+  orig: 48, 46
+  offset: 0, 15
+  index: -1
+accessorries and effects/gun/rocket_smoke0007
+  rotate: true
+  xy: 230, 1014
+  size: 6, 10
+  orig: 48, 46
+  offset: 0, 20
+  index: -1
+accessorries and effects/hat_attributes/BawkersCheerleaderRibbon
+  rotate: false
+  xy: 281, 891
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/ClickityChicksCheerleaderRibbon
+  rotate: true
+  xy: 498, 760
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/Dirt_Hat
+  rotate: false
+  xy: 636, 729
+  size: 52, 27
+  orig: 52, 27
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/EggomaniacsCheerleaderRibbon
+  rotate: true
+  xy: 763, 809
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/Grass_Hat
+  rotate: false
+  xy: 663, 671
+  size: 48, 29
+  orig: 48, 29
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HatCenturion
+  rotate: true
+  xy: 865, 76
+  size: 49, 58
+  orig: 49, 58
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HatCenturionLaurel
+  rotate: false
+  xy: 387, 930
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HatClown
+  rotate: true
+  xy: 806, 221
+  size: 43, 44
+  orig: 43, 44
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HatCowboy
+  rotate: false
+  xy: 34, 624
+  size: 56, 31
+  orig: 56, 31
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HatCreamedCorn
+  rotate: false
+  xy: 87, 105
+  size: 54, 48
+  orig: 54, 48
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HatDragon
+  rotate: true
+  xy: 924, 76
+  size: 49, 59
+  orig: 49, 59
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HatDrink
+  rotate: true
+  xy: 45, 205
+  size: 43, 53
+  orig: 43, 53
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HatDuck
+  rotate: false
+  xy: 709, 606
+  size: 40, 32
+  orig: 40, 32
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HatElf
+  rotate: true
+  xy: 974, 220
+  size: 43, 45
+  orig: 43, 45
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HatFancy
+  rotate: false
+  xy: 722, 388
+  size: 40, 37
+  orig: 40, 37
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HatIceCreamDoubleBS
+  rotate: true
+  xy: 922, 422
+  size: 36, 53
+  orig: 36, 53
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HatIceCreamDoubleCM
+  rotate: true
+  xy: 870, 424
+  size: 36, 51
+  orig: 36, 51
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HatIceCreamDoubleLV
+  rotate: true
+  xy: 353, 235
+  size: 42, 49
+  orig: 42, 49
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HatIceCreamDoubleRU
+  rotate: true
+  xy: 403, 232
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HatLegionaireLaurel
+  rotate: false
+  xy: 409, 930
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HatLeprechaun
+  rotate: false
+  xy: 763, 387
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HatPirate
+  rotate: false
+  xy: 785, 603
+  size: 47, 32
+  orig: 47, 32
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HatRaccoonSkinCap
+  rotate: true
+  xy: 43, 411
+  size: 36, 49
+  orig: 36, 49
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HatRedCap
+  rotate: false
+  xy: 951, 779
+  size: 46, 25
+  orig: 46, 25
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HatRegalLaurel
+  rotate: false
+  xy: 431, 930
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HatSombrero
+  rotate: false
+  xy: 853, 386
+  size: 66, 37
+  orig: 66, 37
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HatTellusMaterLaurel
+  rotate: false
+  xy: 453, 930
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HatTinfoil
+  rotate: true
+  xy: 833, 603
+  size: 32, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HatVelitesLaurel
+  rotate: false
+  xy: 475, 929
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HatVikingHelm
+  rotate: false
+  xy: 814, 387
+  size: 38, 37
+  orig: 42, 39
+  offset: 2, 1
+  index: -1
+accessorries and effects/hat_attributes/HeadArcticHat
+  rotate: false
+  xy: 1, 771
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HeadBawkersHeadscarf
+  rotate: true
+  xy: 459, 735
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HeadBawkersSPHat
+  rotate: false
+  xy: 536, 609
+  size: 38, 32
+  orig: 38, 32
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HeadBlackStarsCap
+  rotate: false
+  xy: 548, 886
+  size: 39, 21
+  orig: 39, 21
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HeadBlondeAnimeWig
+  rotate: true
+  xy: 976, 422
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HeadBlondePonytail
+  rotate: false
+  xy: 804, 348
+  size: 45, 38
+  orig: 45, 38
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HeadBlueStrikersHelmet
+  rotate: false
+  xy: 576, 641
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HeadBrainAlienCap
+  rotate: false
+  xy: 423, 275
+  size: 43, 40
+  orig: 43, 40
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HeadBugAlienCap
+  rotate: false
+  xy: 362, 648
+  size: 42, 30
+  orig: 42, 30
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HeadCakeWithCandles
+  rotate: true
+  xy: 455, 230
+  size: 42, 48
+  orig: 42, 48
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HeadCherryCap
+  rotate: true
+  xy: 199, 195
+  size: 44, 48
+  orig: 44, 48
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HeadCorporalDressBeret
+  rotate: false
+  xy: 797, 755
+  size: 37, 26
+  orig: 37, 26
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HeadCrushedVelvetFuschiaHat
+  rotate: false
+  xy: 735, 639
+  size: 49, 31
+  orig: 49, 31
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HeadCurlyRedHair
+  rotate: true
+  xy: 507, 468
+  size: 35, 44
+  orig: 35, 44
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HeadDesertHat
+  rotate: false
+  xy: 712, 671
+  size: 40, 29
+  orig: 40, 29
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HeadDirndlBonnet
+  rotate: true
+  xy: 512, 504
+  size: 34, 49
+  orig: 34, 49
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HeadDoctorsHeadMirror
+  rotate: false
+  xy: 497, 929
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HeadDukeRidingHelmet
+  rotate: false
+  xy: 262, 652
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HeadEggomaniacsHat
+  rotate: true
+  xy: 750, 605
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HeadFastbeaksCap
+  rotate: false
+  xy: 285, 868
+  size: 39, 22
+  orig: 39, 22
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HeadFirefightersHelmet
+  rotate: false
+  xy: 875, 602
+  size: 38, 32
+  orig: 38, 32
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HeadGallusGallusSPHat
+  rotate: false
+  xy: 913, 752
+  size: 47, 26
+  orig: 47, 26
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HeadGoldSpaceHelmet
+  rotate: true
+  xy: 920, 384
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HeadGorillaMask
+  rotate: true
+  xy: 743, 177
+  size: 44, 58
+  orig: 44, 58
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HeadGreatWhiteSharkHat
+  rotate: true
+  xy: 143, 152
+  size: 45, 49
+  orig: 45, 49
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HeadGreenFieldsHelmet
+  rotate: false
+  xy: 785, 636
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HeadGreenSunvisor
+  rotate: false
+  xy: 822, 903
+  size: 39, 19
+  orig: 39, 19
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HeadHippoMask
+  rotate: false
+  xy: 134, 50
+  size: 53, 51
+  orig: 53, 51
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HeadKillerWhaleHat
+  rotate: true
+  xy: 490, 135
+  size: 47, 54
+  orig: 47, 54
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HeadKingCrown
+  rotate: false
+  xy: 796, 727
+  size: 42, 27
+  orig: 42, 27
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HeadKnightsHelm
+  rotate: false
+  xy: 1, 335
+  size: 40, 39
+  orig: 40, 39
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HeadLederhosenHat
+  rotate: false
+  xy: 792, 809
+  size: 40, 24
+  orig: 40, 24
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HeadLionMask
+  rotate: true
+  xy: 449, 185
+  size: 44, 54
+  orig: 44, 54
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HeadLochmabenGlengarry
+  rotate: false
+  xy: 325, 867
+  size: 34, 22
+  orig: 34, 22
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HeadLuckyCluckersSPHat
+  rotate: false
+  xy: 914, 602
+  size: 42, 32
+  orig: 42, 32
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HeadMasterRidingHat
+  rotate: false
+  xy: 46, 522
+  size: 38, 34
+  orig: 38, 34
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HeadMayfieldBearskin
+  rotate: false
+  xy: 984, 632
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HeadModernGlengarry
+  rotate: false
+  xy: 588, 885
+  size: 32, 21
+  orig: 32, 21
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HeadMonsterScalp
+  rotate: false
+  xy: 360, 710
+  size: 35, 28
+  orig: 35, 28
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HeadMountainCap
+  rotate: false
+  xy: 621, 884
+  size: 37, 21
+  orig: 37, 21
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HeadMutantApe
+  rotate: true
+  xy: 467, 273
+  size: 40, 44
+  orig: 40, 44
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HeadMutantChicken
+  rotate: true
+  xy: 295, 322
+  size: 39, 54
+  orig: 39, 54
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HeadMutantWig
+  rotate: true
+  xy: 91, 624
+  size: 31, 43
+  orig: 31, 43
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HeadNarhwalHat
+  rotate: true
+  xy: 66, 1
+  size: 52, 59
+  orig: 52, 59
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HeadOrangeSweatband
+  rotate: false
+  xy: 870, 1001
+  size: 25, 10
+  orig: 25, 10
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HeadOrchidRidingHelmet
+  rotate: false
+  xy: 753, 671
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HeadOutlawCowboyHat
+  rotate: false
+  xy: 793, 698
+  size: 52, 28
+  orig: 52, 28
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HeadPilgrimCoif
+  rotate: false
+  xy: 254, 515
+  size: 39, 34
+  orig: 39, 34
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HeadPilgrimHat
+  rotate: false
+  xy: 632, 573
+  size: 42, 33
+  orig: 42, 33
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HeadPinkWalkman
+  rotate: true
+  xy: 692, 882
+  size: 21, 55
+  orig: 21, 55
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HeadPoliceOfficersCap
+  rotate: false
+  xy: 835, 755
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HeadPrincessTiara
+  rotate: false
+  xy: 304, 891
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HeadQueenCrown
+  rotate: false
+  xy: 206, 844
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HeadRastaDreadlocks
+  rotate: true
+  xy: 552, 468
+  size: 35, 47
+  orig: 35, 47
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HeadRastaHeadscarf
+  rotate: false
+  xy: 786, 668
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HeadRedAvengersCap
+  rotate: false
+  xy: 748, 882
+  size: 39, 21
+  orig: 39, 21
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HeadReindeerAntlers
+  rotate: false
+  xy: 846, 697
+  size: 38, 28
+  orig: 38, 28
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HeadRenegadeCowboyHat
+  rotate: false
+  xy: 822, 667
+  size: 55, 29
+  orig: 55, 29
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HeadRoseRidingHelmet
+  rotate: false
+  xy: 296, 651
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HeadRosewellBearskin
+  rotate: true
+  xy: 226, 367
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HeadSailorsCap
+  rotate: false
+  xy: 875, 754
+  size: 37, 26
+  orig: 37, 26
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HeadSantaHat
+  rotate: false
+  xy: 878, 666
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HeadSilverSpaceHelmet
+  rotate: true
+  xy: 960, 384
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HeadSilverWizardHat
+  rotate: false
+  xy: 484, 86
+  size: 55, 48
+  orig: 55, 48
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HeadSpottyDog
+  rotate: false
+  xy: 850, 347
+  size: 49, 38
+  orig: 49, 39
+  offset: 0, 1
+  index: -1
+accessorries and effects/hat_attributes/HeadStonehavenGlengarry
+  rotate: false
+  xy: 659, 883
+  size: 32, 21
+  orig: 32, 21
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HeadStreakyBaconHat
+  rotate: false
+  xy: 31, 771
+  size: 36, 25
+  orig: 36, 25
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HeadToxicMutant
+  rotate: false
+  xy: 992, 694
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HeadTweedRidingHelmet
+  rotate: false
+  xy: 916, 666
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HeadVenusianAlienCap
+  rotate: true
+  xy: 894, 533
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HeadWhiteRocketsCap
+  rotate: false
+  xy: 788, 881
+  size: 39, 21
+  orig: 39, 21
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HeadWhiteSweatband
+  rotate: false
+  xy: 57, 1007
+  size: 26, 9
+  orig: 26, 9
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HeadWingedWarriorsCap
+  rotate: false
+  xy: 1, 687
+  size: 42, 28
+  orig: 42, 28
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/HeadWitch'sHat
+  rotate: false
+  xy: 42, 334
+  size: 48, 38
+  orig: 48, 38
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/LuckyCluckersCheerleaderRibbon
+  rotate: false
+  xy: 235, 844
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/Road_Hat
+  rotate: false
+  xy: 913, 724
+  size: 41, 27
+  orig: 41, 27
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/Rock_Hat
+  rotate: false
+  xy: 1, 414
+  size: 41, 36
+  orig: 41, 36
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/Sand_Hat
+  rotate: false
+  xy: 44, 686
+  size: 47, 28
+  orig: 47, 28
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/Trackt_Hat
+  rotate: false
+  xy: 955, 724
+  size: 61, 27
+  orig: 61, 27
+  offset: 0, 0
+  index: -1
+accessorries and effects/hat_attributes/Winter_Hat
+  rotate: false
+  xy: 478, 642
+  size: 48, 30
+  orig: 48, 30
+  offset: 0, 0
+  index: -1
+accessorries and effects/necklaces and scarfs/ChickenMedal_1
+  rotate: true
+  xy: 96, 770
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+accessorries and effects/necklaces and scarfs/ChickenMedal_2
+  rotate: true
+  xy: 128, 769
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+accessorries and effects/necklaces and scarfs/ChickenMedal_3
+  rotate: true
+  xy: 160, 769
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+accessorries and effects/necklaces and scarfs/ChickenMedal_4
+  rotate: true
+  xy: 192, 769
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+accessorries and effects/necklaces and scarfs/CopperBETAMedal
+  rotate: true
+  xy: 875, 726
+  size: 27, 37
+  orig: 27, 37
+  offset: 0, 0
+  index: -1
+accessorries and effects/necklaces and scarfs/CopperCHICKMedal
+  rotate: true
+  xy: 224, 769
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+accessorries and effects/necklaces and scarfs/GoldBETAMedal
+  rotate: true
+  xy: 1, 716
+  size: 27, 36
+  orig: 27, 36
+  offset: 0, 0
+  index: -1
+accessorries and effects/necklaces and scarfs/GoldCHICKMedal
+  rotate: true
+  xy: 833, 808
+  size: 24, 34
+  orig: 24, 34
+  offset: 0, 0
+  index: -1
+accessorries and effects/necklaces and scarfs/Neck100kBronzeMedal
+  rotate: true
+  xy: 491, 732
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+accessorries and effects/necklaces and scarfs/Neck100kGoldMedal
+  rotate: true
+  xy: 259, 768
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+accessorries and effects/necklaces and scarfs/Neck100kRunnerupMedal
+  rotate: true
+  xy: 839, 727
+  size: 27, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+accessorries and effects/necklaces and scarfs/Neck100kSIlverMedal
+  rotate: true
+  xy: 396, 709
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+accessorries and effects/necklaces and scarfs/NeckBlackTeethNeckscarf
+  rotate: true
+  xy: 68, 771
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+accessorries and effects/necklaces and scarfs/NeckBlueCravat
+  rotate: true
+  xy: 38, 716
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+accessorries and effects/necklaces and scarfs/NeckBronze20k
+  rotate: true
+  xy: 620, 758
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+accessorries and effects/necklaces and scarfs/NeckCheerleaderChargeMedal
+  rotate: false
+  xy: 998, 779
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+accessorries and effects/necklaces and scarfs/NeckCrushedVelvetBlueChoker
+  rotate: false
+  xy: 30, 952
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+accessorries and effects/necklaces and scarfs/NeckCrushedVelvetFuschieBowTie
+  rotate: false
+  xy: 1008, 972
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+accessorries and effects/necklaces and scarfs/NeckDiamond20k
+  rotate: true
+  xy: 961, 752
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+accessorries and effects/necklaces and scarfs/NeckDoctorsStethoscope
+  rotate: true
+  xy: 868, 808
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+accessorries and effects/necklaces and scarfs/NeckDogTags
+  rotate: true
+  xy: 557, 927
+  size: 17, 27
+  orig: 17, 27
+  offset: 0, 0
+  index: -1
+accessorries and effects/necklaces and scarfs/NeckFastbeaksScarf
+  rotate: true
+  xy: 895, 807
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+accessorries and effects/necklaces and scarfs/NeckGallusGallusSPChain
+  rotate: true
+  xy: 923, 805
+  size: 24, 35
+  orig: 24, 35
+  offset: 0, 0
+  index: -1
+accessorries and effects/necklaces and scarfs/NeckGold20k
+  rotate: true
+  xy: 1, 744
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+accessorries and effects/necklaces and scarfs/NeckGoldChain
+  rotate: false
+  xy: 262, 844
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+accessorries and effects/necklaces and scarfs/NeckGoldStarDogTags
+  rotate: true
+  xy: 862, 903
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1
+accessorries and effects/necklaces and scarfs/NeckGoldenBulletMedallion
+  rotate: true
+  xy: 522, 887
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+accessorries and effects/necklaces and scarfs/NeckGollarTie
+  rotate: true
+  xy: 959, 805
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+accessorries and effects/necklaces and scarfs/NeckGreenBeadedNecklace
+  rotate: false
+  xy: 922, 902
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+accessorries and effects/necklaces and scarfs/NeckGreenSpotNeckerchief
+  rotate: true
+  xy: 35, 744
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+accessorries and effects/necklaces and scarfs/NeckHarmonica
+  rotate: false
+  xy: 893, 903
+  size: 28, 19
+  orig: 28, 19
+  offset: 0, 0
+  index: -1
+accessorries and effects/necklaces and scarfs/NeckHeartDiamond
+  rotate: true
+  xy: 943, 902
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: -1
+accessorries and effects/necklaces and scarfs/NeckHeroCrusader
+  rotate: false
+  xy: 742, 499
+  size: 67, 34
+  orig: 67, 34
+  offset: 0, 0
+  index: -1
+accessorries and effects/necklaces and scarfs/NeckHeroInventive
+  rotate: false
+  xy: 810, 498
+  size: 67, 34
+  orig: 67, 34
+  offset: 0, 0
+  index: -1
+accessorries and effects/necklaces and scarfs/NeckHeroNoble
+  rotate: false
+  xy: 925, 495
+  size: 67, 34
+  orig: 67, 34
+  offset: 0, 0
+  index: -1
+accessorries and effects/necklaces and scarfs/NeckHeroPurified
+  rotate: false
+  xy: 1, 487
+  size: 67, 34
+  orig: 67, 34
+  offset: 0, 0
+  index: -1
+accessorries and effects/necklaces and scarfs/NeckHeroVigilante
+  rotate: false
+  xy: 114, 483
+  size: 67, 34
+  orig: 67, 34
+  offset: 0, 0
+  index: -1
+accessorries and effects/necklaces and scarfs/NeckKingBeard
+  rotate: false
+  xy: 990, 805
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+accessorries and effects/necklaces and scarfs/NeckLifePreserver
+  rotate: false
+  xy: 948, 666
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+accessorries and effects/necklaces and scarfs/NeckLuckyCluckersSPChain
+  rotate: true
+  xy: 360, 867
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1
+accessorries and effects/necklaces and scarfs/NeckLute
+  rotate: false
+  xy: 93, 410
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+accessorries and effects/necklaces and scarfs/NeckMountainPack
+  rotate: false
+  xy: 43, 373
+  size: 47, 37
+  orig: 47, 37
+  offset: 0, 0
+  index: -1
+accessorries and effects/necklaces and scarfs/NeckNeckBone
+  rotate: false
+  xy: 609, 926
+  size: 40, 17
+  orig: 40, 17
+  offset: 0, 0
+  index: -1
+accessorries and effects/necklaces and scarfs/NeckPearlNecklace
+  rotate: false
+  xy: 395, 866
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+accessorries and effects/necklaces and scarfs/NeckPrinceRobe
+  rotate: false
+  xy: 527, 642
+  size: 48, 30
+  orig: 48, 30
+  offset: 0, 0
+  index: -1
+accessorries and effects/necklaces and scarfs/NeckPrincessNecklace
+  rotate: true
+  xy: 329, 890
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+accessorries and effects/necklaces and scarfs/NeckRedScarf
+  rotate: false
+  xy: 199, 684
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+accessorries and effects/necklaces and scarfs/NeckRogueCloak
+  rotate: false
+  xy: 108, 714
+  size: 48, 27
+  orig: 48, 27
+  offset: 0, 0
+  index: -1
+accessorries and effects/necklaces and scarfs/NeckRubyPendent
+  rotate: true
+  xy: 352, 890
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+accessorries and effects/necklaces and scarfs/NeckSantaBeard
+  rotate: false
+  xy: 292, 768
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+accessorries and effects/necklaces and scarfs/NeckSilver20k
+  rotate: true
+  xy: 74, 743
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+accessorries and effects/necklaces and scarfs/NeckSportsTowel
+  rotate: false
+  xy: 322, 767
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+accessorries and effects/necklaces and scarfs/NeckStreakyBaconTie
+  rotate: true
+  xy: 828, 881
+  size: 21, 35
+  orig: 21, 35
+  offset: 0, 0
+  index: -1
+accessorries and effects/necklaces and scarfs/NeckStreamers
+  rotate: true
+  xy: 421, 866
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+accessorries and effects/necklaces and scarfs/NeckSunMedallion
+  rotate: true
+  xy: 864, 881
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+accessorries and effects/necklaces and scarfs/NeckTomatoSliceNecklace
+  rotate: false
+  xy: 286, 844
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+accessorries and effects/necklaces and scarfs/NeckWeedPendent
+  rotate: true
+  xy: 380, 890
+  size: 20, 32
+  orig: 20, 32
+  offset: 0, 0
+  index: -1
+accessorries and effects/necklaces and scarfs/NeckWingedWarriorsScarf
+  rotate: true
+  xy: 449, 865
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+accessorries and effects/necklaces and scarfs/PalladiumBETAMedal
+  rotate: true
+  xy: 70, 715
+  size: 27, 37
+  orig: 27, 37
+  offset: 0, 0
+  index: -1
+accessorries and effects/necklaces and scarfs/PalladiumCHICKMedal
+  rotate: true
+  xy: 1, 797
+  size: 24, 34
+  orig: 24, 34
+  offset: 0, 0
+  index: -1
+accessorries and effects/shoe/FeetBananaSlippers
+  rotate: false
+  xy: 265, 980
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+accessorries and effects/shoe/FeetBlackFlippers
+  rotate: false
+  xy: 484, 963
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+accessorries and effects/shoe/FeetBlackStarsCleats
+  rotate: false
+  xy: 621, 1012
+  size: 18, 8
+  orig: 18, 8
+  offset: 0, 0
+  index: -1
+accessorries and effects/shoe/FeetBlueStrikersCleats
+  rotate: false
+  xy: 84, 1006
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+accessorries and effects/shoe/FeetCenturionSandals
+  rotate: false
+  xy: 896, 1001
+  size: 17, 10
+  orig: 17, 10
+  offset: 0, 0
+  index: -1
+accessorries and effects/shoe/FeetCorporalDressShoes
+  rotate: false
+  xy: 747, 989
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1
+accessorries and effects/shoe/FeetCrushedVelvetBlueSlippers
+  rotate: false
+  xy: 914, 1001
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+accessorries and effects/shoe/FeetDesertBoots
+  rotate: false
+  xy: 78, 951
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+accessorries and effects/shoe/FeetDirndlShoes
+  rotate: false
+  xy: 1004, 987
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+accessorries and effects/shoe/FeetDoctorsBlueShoeCovers
+  rotate: false
+  xy: 640, 1012
+  size: 19, 8
+  orig: 19, 8
+  offset: 0, 0
+  index: -1
+accessorries and effects/shoe/FeetDonkeyLegs
+  rotate: false
+  xy: 657, 976
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+accessorries and effects/shoe/FeetDukeRidingBoots
+  rotate: false
+  xy: 352, 949
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+accessorries and effects/shoe/FeetFirefightersBoots
+  rotate: false
+  xy: 183, 981
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+accessorries and effects/shoe/FeetFlipflops
+  rotate: false
+  xy: 935, 1001
+  size: 22, 10
+  orig: 22, 10
+  offset: 0, 0
+  index: -1
+accessorries and effects/shoe/FeetGoldSpaceBoots
+  rotate: false
+  xy: 372, 948
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+accessorries and effects/shoe/FeetGreenFieldsCleats
+  rotate: false
+  xy: 660, 1012
+  size: 18, 8
+  orig: 18, 8
+  offset: 0, 0
+  index: -1
+accessorries and effects/shoe/FeetHeroCowboyBoots
+  rotate: false
+  xy: 290, 980
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+accessorries and effects/shoe/FeetKingBoots
+  rotate: false
+  xy: 511, 963
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+accessorries and effects/shoe/FeetKnightsSabatons
+  rotate: false
+  xy: 863, 942
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+accessorries and effects/shoe/FeetLederhosenBoots
+  rotate: false
+  xy: 519, 929
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+accessorries and effects/shoe/FeetLegionaireSandals
+  rotate: false
+  xy: 958, 1000
+  size: 17, 10
+  orig: 17, 10
+  offset: 0, 0
+  index: -1
+accessorries and effects/shoe/FeetLionPaws
+  rotate: false
+  xy: 706, 975
+  size: 23, 13
+  orig: 23, 13
+  offset: 0, 0
+  index: -1
+accessorries and effects/shoe/FeetLochmabenShoes
+  rotate: false
+  xy: 538, 928
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+accessorries and effects/shoe/FeetMasterRidingBoots
+  rotate: false
+  xy: 530, 963
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+accessorries and effects/shoe/FeetMayfieldShoes
+  rotate: false
+  xy: 235, 912
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+accessorries and effects/shoe/FeetModernShoes
+  rotate: false
+  xy: 884, 942
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+accessorries and effects/shoe/FeetMonkSandals
+  rotate: false
+  xy: 976, 1000
+  size: 19, 10
+  orig: 19, 10
+  offset: 0, 0
+  index: -1
+accessorries and effects/shoe/FeetMonsterFeet
+  rotate: false
+  xy: 768, 989
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1
+accessorries and effects/shoe/FeetMountainShoes
+  rotate: false
+  xy: 566, 961
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+accessorries and effects/shoe/FeetMutantApe
+  rotate: false
+  xy: 586, 961
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+accessorries and effects/shoe/FeetMutantBoots
+  rotate: false
+  xy: 585, 927
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+accessorries and effects/shoe/FeetMutantChicken
+  rotate: false
+  xy: 650, 925
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+accessorries and effects/shoe/FeetMutantTurtle
+  rotate: false
+  xy: 310, 980
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+accessorries and effects/shoe/FeetOrangeHighTops
+  rotate: false
+  xy: 607, 961
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+accessorries and effects/shoe/FeetOrchidRidingBoots
+  rotate: false
+  xy: 730, 975
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+accessorries and effects/shoe/FeetPilgrimBoots
+  rotate: false
+  xy: 789, 989
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1
+accessorries and effects/shoe/FeetPilgrimShoes
+  rotate: false
+  xy: 996, 1000
+  size: 18, 10
+  orig: 18, 10
+  offset: 0, 0
+  index: -1
+accessorries and effects/shoe/FeetPinkLegwarmers
+  rotate: true
+  xy: 1, 996
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+accessorries and effects/shoe/FeetPoliceOfficersShoes
+  rotate: false
+  xy: 16, 996
+  size: 18, 10
+  orig: 18, 10
+  offset: 0, 0
+  index: -1
+accessorries and effects/shoe/FeetPurpleDanceShoes
+  rotate: false
+  xy: 810, 989
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+accessorries and effects/shoe/FeetPurpleHighTops
+  rotate: false
+  xy: 332, 980
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+accessorries and effects/shoe/FeetQueenShoes
+  rotate: false
+  xy: 904, 942
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+accessorries and effects/shoe/FeetRastaSandals
+  rotate: false
+  xy: 832, 989
+  size: 22, 11
+  orig: 22, 11
+  offset: 0, 0
+  index: -1
+accessorries and effects/shoe/FeetRastaTrainers
+  rotate: false
+  xy: 676, 925
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+accessorries and effects/shoe/FeetRedAvengersCleats
+  rotate: false
+  xy: 103, 1006
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+accessorries and effects/shoe/FeetRedStilettos
+  rotate: false
+  xy: 35, 996
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+accessorries and effects/shoe/FeetRegalSandals
+  rotate: false
+  xy: 56, 996
+  size: 17, 10
+  orig: 17, 10
+  offset: 0, 0
+  index: -1
+accessorries and effects/shoe/FeetRoseRidingBoots
+  rotate: false
+  xy: 353, 980
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+accessorries and effects/shoe/FeetRosewellShoes
+  rotate: false
+  xy: 926, 942
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+accessorries and effects/shoe/FeetSantaBoots
+  rotate: false
+  xy: 373, 980
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+accessorries and effects/shoe/FeetSilverSpaceBoots
+  rotate: false
+  xy: 394, 948
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+accessorries and effects/shoe/FeetSnowBoots
+  rotate: false
+  xy: 416, 948
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+accessorries and effects/shoe/FeetSpottyDogPaws
+  rotate: false
+  xy: 750, 975
+  size: 22, 13
+  orig: 22, 13
+  offset: 0, 0
+  index: -1
+accessorries and effects/shoe/FeetStonehavenShoes
+  rotate: false
+  xy: 256, 912
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+accessorries and effects/shoe/FeetStrangerCowboyCoots
+  rotate: false
+  xy: 629, 961
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+accessorries and effects/shoe/FeetStreakyBaconFlipflops
+  rotate: false
+  xy: 74, 995
+  size: 22, 10
+  orig: 22, 10
+  offset: 0, 0
+  index: -1
+accessorries and effects/shoe/FeetTarsalSlippers
+  rotate: false
+  xy: 122, 1005
+  size: 19, 9
+  orig: 19, 9
+  offset: 0, 0
+  index: -1
+accessorries and effects/shoe/FeetTellusMaterSandals
+  rotate: false
+  xy: 97, 995
+  size: 17, 10
+  orig: 17, 10
+  offset: 0, 0
+  index: -1
+accessorries and effects/shoe/FeetToxicMutant
+  rotate: false
+  xy: 855, 989
+  size: 23, 11
+  orig: 23, 11
+  offset: 0, 0
+  index: -1
+accessorries and effects/shoe/FeetTweedRidingBoots
+  rotate: false
+  xy: 773, 975
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+accessorries and effects/shoe/FeetVelitesSandals
+  rotate: false
+  xy: 115, 994
+  size: 17, 10
+  orig: 17, 10
+  offset: 0, 0
+  index: -1
+accessorries and effects/shoe/FeetWhiteHighTops
+  rotate: false
+  xy: 793, 975
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+accessorries and effects/shoe/FeetWhiteRocketsCleats
+  rotate: false
+  xy: 142, 1005
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+accessorries and effects/shoe/FeetYellowCrocs
+  rotate: false
+  xy: 814, 975
+  size: 22, 13
+  orig: 22, 13
+  offset: 0, 0
+  index: -1
+accessorries and effects/shoe/GorillaFeet
+  rotate: false
+  xy: 650, 961
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+accessorries and effects/shoe/HippoFeet
+  rotate: false
+  xy: 393, 979
+  size: 22, 12
+  orig: 22, 12
+  offset: 0, 0
+  index: -1
+accessorries and effects/shoe/RoastPotatoShoes
+  rotate: false
+  xy: 133, 994
+  size: 18, 10
+  orig: 18, 10
+  offset: 0, 0
+  index: -1
+accessorries and effects/shoe/ShoeBrownBoots
+  rotate: false
+  xy: 837, 975
+  size: 22, 13
+  orig: 22, 13
+  offset: 0, 0
+  index: -1
+accessorries and effects/shoe/ShoeFancy
+  rotate: false
+  xy: 879, 989
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1
+accessorries and effects/shoe/ShoeUSAFlagShoes
+  rotate: false
+  xy: 176, 369
+  size: 49, 37
+  orig: 49, 37
+  offset: 0, 0
+  index: -1
+accessorries and effects/shoe/black_shoe
+  rotate: false
+  xy: 900, 989
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+accessorries and effects/shoe/shoe
+  rotate: false
+  xy: 416, 979
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+accessorries and effects/white blink_effect/effect0001
+  rotate: true
+  xy: 36, 797
+  size: 24, 31
+  orig: 48, 51
+  offset: 13, 4
+  index: -1
+accessorries and effects/white blink_effect/effect0002
+  rotate: true
+  xy: 311, 843
+  size: 23, 32
+  orig: 48, 51
+  offset: 13, 4
+  index: -1
+accessorries and effects/white blink_effect/effect0003
+  rotate: true
+  xy: 157, 714
+  size: 27, 37
+  orig: 48, 51
+  offset: 11, 4
+  index: -1
+accessorries and effects/white blink_effect/effect0004
+  rotate: true
+  xy: 675, 572
+  size: 33, 42
+  orig: 48, 51
+  offset: 7, 4
+  index: -1
+accessorries and effects/white blink_effect/effect0005
+  rotate: true
+  xy: 350, 319
+  size: 39, 48
+  orig: 48, 51
+  offset: 5, 2
+  index: -1
+accessorries and effects/white blink_effect/effect0006
+  rotate: true
+  xy: 658, 267
+  size: 41, 48
+  orig: 48, 51
+  offset: 4, 2
+  index: -1
+accessorries and effects/white blink_effect/effect0007
+  rotate: false
+  xy: 1, 206
+  size: 43, 45
+  orig: 48, 51
+  offset: 3, 1
+  index: -1
+accessorries and effects/white blink_effect/effect0008
+  rotate: false
+  xy: 512, 271
+  size: 45, 40
+  orig: 48, 51
+  offset: 2, 1
+  index: -1
+accessorries and effects/white blink_effect/effect0009
+  rotate: false
+  xy: 399, 318
+  size: 45, 39
+  orig: 48, 51
+  offset: 2, 1
+  index: -1
+accessorries and effects/white blink_effect/effect0010
+  rotate: false
+  xy: 161, 1005
+  size: 42, 9
+  orig: 48, 51
+  offset: 0, 1
+  index: -1
+baseBodies/Robot/body_Robot
+  rotate: false
+  xy: 332, 475
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1
+baseBodies/Robot/had_Robot
+  rotate: true
+  xy: 238, 741
+  size: 26, 66
+  orig: 28, 67
+  offset: 0, 1
+  index: -1
+baseBodies/Robot/leg_Robot
+  rotate: false
+  xy: 438, 979
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+baseBodies/Robot/tail_Robot
+  rotate: true
+  xy: 600, 466
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+baseBodies/Robot/wing_Robot
+  rotate: false
+  xy: 68, 797
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+baseBodies/Runic/body_Runic
+  rotate: false
+  xy: 718, 571
+  size: 42, 33
+  orig: 42, 33
+  offset: 0, 0
+  index: -1
+baseBodies/Runic/head_Runic
+  rotate: true
+  xy: 676, 859
+  size: 22, 59
+  orig: 22, 59
+  offset: 0, 0
+  index: -1
+baseBodies/Runic/leg_Runic
+  rotate: true
+  xy: 152, 994
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+baseBodies/Runic/tail_Runic
+  rotate: true
+  xy: 504, 228
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+baseBodies/Runic/wing_Runic
+  rotate: false
+  xy: 99, 796
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+baseBodies/TranslucentBlue/body_Translucent Blue
+  rotate: false
+  xy: 647, 465
+  size: 43, 35
+  orig: 44, 36
+  offset: 0, 0
+  index: -1
+baseBodies/TranslucentBlue/head_Translucent Blue
+  rotate: true
+  xy: 609, 640
+  size: 30, 62
+  orig: 35, 64
+  offset: 2, 0
+  index: -1
+baseBodies/TranslucentBlue/leg_Translucent Blue
+  rotate: true
+  xy: 549, 962
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+baseBodies/TranslucentBlue/tail_Translucent Blue
+  rotate: true
+  xy: 445, 316
+  size: 39, 52
+  orig: 41, 52
+  offset: 1, 0
+  index: -1
+baseBodies/TranslucentBlue/wing_Translucent Blue
+  rotate: false
+  xy: 195, 714
+  size: 33, 27
+  orig: 33, 27
+  offset: 0, 0
+  index: -1
+baseBodies/TranslucentGreen/body_green ghoast
+  rotate: false
+  xy: 132, 409
+  size: 43, 36
+  orig: 45, 37
+  offset: 1, 0
+  index: -1
+baseBodies/TranslucentGreen/head_green ghoast
+  rotate: true
+  xy: 305, 740
+  size: 26, 61
+  orig: 35, 62
+  offset: 2, 0
+  index: -1
+baseBodies/TranslucentGreen/leg_green ghoast
+  rotate: true
+  xy: 860, 975
+  size: 13, 16
+  orig: 14, 17
+  offset: 0, 1
+  index: -1
+baseBodies/TranslucentGreen/tail_green ghoast
+  rotate: true
+  xy: 593, 311
+  size: 39, 52
+  orig: 41, 52
+  offset: 1, 0
+  index: -1
+baseBodies/TranslucentGreen/wing_green ghoast
+  rotate: false
+  xy: 229, 713
+  size: 33, 27
+  orig: 33, 27
+  offset: 0, 0
+  index: -1
+baseBodies/TranslucentOrange/body_Translucent Orange
+  rotate: false
+  xy: 691, 464
+  size: 43, 35
+  orig: 44, 36
+  offset: 0, 0
+  index: -1
+baseBodies/TranslucentOrange/head_Translucent Orange
+  rotate: true
+  xy: 672, 640
+  size: 30, 62
+  orig: 35, 64
+  offset: 2, 0
+  index: -1
+baseBodies/TranslucentOrange/leg_Translucent Orange
+  rotate: true
+  xy: 673, 960
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+baseBodies/TranslucentOrange/tail_Translucent Orange
+  rotate: true
+  xy: 646, 310
+  size: 39, 52
+  orig: 41, 52
+  offset: 1, 0
+  index: -1
+baseBodies/TranslucentOrange/wing_Translucent Orange
+  rotate: false
+  xy: 263, 713
+  size: 33, 27
+  orig: 33, 27
+  offset: 0, 0
+  index: -1
+baseBodies/TranslucentRed/body_pink ghoast
+  rotate: false
+  xy: 91, 332
+  size: 46, 38
+  orig: 47, 39
+  offset: 0, 0
+  index: -1
+baseBodies/TranslucentRed/head_pink ghoast
+  rotate: true
+  xy: 38, 656
+  size: 29, 62
+  orig: 34, 63
+  offset: 2, 0
+  index: -1
+baseBodies/TranslucentRed/leg_pink ghoast
+  rotate: true
+  xy: 453, 979
+  size: 12, 15
+  orig: 13, 16
+  offset: 0, 1
+  index: -1
+baseBodies/TranslucentRed/tail_pink ghoast
+  rotate: true
+  xy: 562, 504
+  size: 34, 45
+  orig: 36, 45
+  offset: 1, 0
+  index: -1
+baseBodies/TranslucentRed/wing_pink ghoast
+  rotate: false
+  xy: 229, 684
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1
+baseBodies/basic_white/Body
+  rotate: false
+  xy: 761, 569
+  size: 42, 33
+  orig: 42, 33
+  offset: 0, 0
+  index: -1
+baseBodies/basic_white/Head
+  rotate: true
+  xy: 785, 858
+  size: 22, 59
+  orig: 22, 59
+  offset: 0, 0
+  index: -1
+baseBodies/basic_white/leg
+  rotate: true
+  xy: 165, 994
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+baseBodies/basic_white/tail
+  rotate: true
+  xy: 498, 314
+  size: 39, 51
+  orig: 39, 51
+  offset: 0, 0
+  index: -1
+baseBodies/basic_white/wing
+  rotate: false
+  xy: 130, 795
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+baseBodies/black/body_black
+  rotate: false
+  xy: 804, 569
+  size: 42, 33
+  orig: 42, 33
+  offset: 0, 0
+  index: -1
+baseBodies/black/head_black
+  rotate: true
+  xy: 893, 857
+  size: 22, 59
+  orig: 22, 59
+  offset: 0, 0
+  index: -1
+baseBodies/black/tail_black
+  rotate: true
+  xy: 599, 225
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+baseBodies/black/thigh_black
+  rotate: true
+  xy: 178, 994
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+baseBodies/black/wing_black
+  rotate: false
+  xy: 161, 795
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+baseBodies/dorkingOrange/body_orange
+  rotate: false
+  xy: 847, 568
+  size: 41, 33
+  orig: 41, 33
+  offset: 0, 0
+  index: -1
+baseBodies/dorkingOrange/had_orange
+  rotate: true
+  xy: 387, 842
+  size: 23, 59
+  orig: 23, 59
+  offset: 0, 0
+  index: -1
+baseBodies/dorkingOrange/leg_orange
+  rotate: true
+  xy: 203, 993
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+baseBodies/dorkingOrange/tail_orange
+  rotate: true
+  xy: 735, 463
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+baseBodies/dorkingOrange/wing_orange
+  rotate: false
+  xy: 192, 795
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+baseBodies/dorkingWhite/body_White
+  rotate: false
+  xy: 889, 568
+  size: 41, 33
+  orig: 41, 33
+  offset: 0, 0
+  index: -1
+baseBodies/dorkingWhite/had_White
+  rotate: true
+  xy: 447, 841
+  size: 23, 59
+  orig: 23, 59
+  offset: 0, 0
+  index: -1
+baseBodies/dorkingWhite/leg_White
+  rotate: true
+  xy: 218, 993
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+baseBodies/dorkingWhite/tail_White
+  rotate: true
+  xy: 782, 462
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+baseBodies/dorkingWhite/wing_White
+  rotate: false
+  xy: 223, 795
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+baseBodies/dorkingYellow/body_Yellow
+  rotate: false
+  xy: 931, 565
+  size: 41, 33
+  orig: 41, 33
+  offset: 0, 0
+  index: -1
+baseBodies/dorkingYellow/had_Yellow
+  rotate: true
+  xy: 628, 835
+  size: 23, 59
+  orig: 23, 59
+  offset: 0, 0
+  index: -1
+baseBodies/dorkingYellow/leg_Yellow
+  rotate: true
+  xy: 233, 993
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+baseBodies/dorkingYellow/tail_Yellow
+  rotate: true
+  xy: 829, 462
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+baseBodies/dorkingYellow/wing_Yellow
+  rotate: false
+  xy: 254, 795
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+baseBodies/lakenvelderGreen/body_Green
+  rotate: false
+  xy: 973, 565
+  size: 41, 33
+  orig: 41, 33
+  offset: 0, 0
+  index: -1
+baseBodies/lakenvelderGreen/head_Green
+  rotate: true
+  xy: 723, 834
+  size: 23, 59
+  orig: 23, 59
+  offset: 0, 0
+  index: -1
+baseBodies/lakenvelderGreen/leg_Green
+  rotate: true
+  xy: 248, 993
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+baseBodies/lakenvelderGreen/tail_Green
+  rotate: true
+  xy: 876, 461
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+baseBodies/lakenvelderGreen/wing_Green
+  rotate: false
+  xy: 285, 794
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+baseBodies/lakenvelderLightGreen/body_LightGreen
+  rotate: false
+  xy: 1, 557
+  size: 41, 33
+  orig: 41, 33
+  offset: 0, 0
+  index: -1
+baseBodies/lakenvelderLightGreen/had_LightGreen
+  rotate: true
+  xy: 783, 834
+  size: 23, 59
+  orig: 23, 59
+  offset: 0, 0
+  index: -1
+baseBodies/lakenvelderLightGreen/leg_LightGreen
+  rotate: true
+  xy: 263, 993
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+baseBodies/lakenvelderLightGreen/tail_LightGreen
+  rotate: true
+  xy: 923, 459
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+baseBodies/lakenvelderLightGreen/wingt_LightGreen
+  rotate: false
+  xy: 316, 794
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+baseBodies/lakenvelderLime/body_Lime
+  rotate: false
+  xy: 43, 557
+  size: 41, 33
+  orig: 41, 33
+  offset: 0, 0
+  index: -1
+baseBodies/lakenvelderLime/had_Lime
+  rotate: true
+  xy: 843, 833
+  size: 23, 59
+  orig: 23, 59
+  offset: 0, 0
+  index: -1
+baseBodies/lakenvelderLime/leg_Lime
+  rotate: true
+  xy: 278, 993
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+baseBodies/lakenvelderLime/tail_Lime
+  rotate: true
+  xy: 970, 459
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+baseBodies/lakenvelderLime/wing_Lime
+  rotate: false
+  xy: 347, 793
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+baseBodies/lakenvelderMoss/body_Moss
+  rotate: false
+  xy: 85, 555
+  size: 41, 33
+  orig: 41, 33
+  offset: 0, 0
+  index: -1
+baseBodies/lakenvelderMoss/had_Moss
+  rotate: true
+  xy: 940, 830
+  size: 23, 59
+  orig: 23, 59
+  offset: 0, 0
+  index: -1
+baseBodies/lakenvelderMoss/leg_Moss
+  rotate: true
+  xy: 293, 993
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+baseBodies/lakenvelderMoss/tail_Moss
+  rotate: true
+  xy: 1, 451
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+baseBodies/lakenvelderMoss/wing_Moss
+  rotate: false
+  xy: 378, 793
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+baseBodies/plucked/body_Plucked
+  rotate: false
+  xy: 127, 553
+  size: 42, 33
+  orig: 42, 33
+  offset: 0, 0
+  index: -1
+baseBodies/plucked/head_Plucked
+  rotate: true
+  xy: 953, 877
+  size: 21, 59
+  orig: 21, 59
+  offset: 0, 0
+  index: -1
+baseBodies/plucked/leg_Plucked
+  rotate: true
+  xy: 191, 994
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+baseBodies/plucked/tail_Plucked
+  rotate: true
+  xy: 986, 664
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+baseBodies/plucked/wing_Plucked
+  rotate: false
+  xy: 917, 880
+  size: 35, 21
+  orig: 35, 21
+  offset: 0, 0
+  index: -1
+baseBodies/rainbow/body_rainbow
+  rotate: false
+  xy: 212, 551
+  size: 42, 33
+  orig: 42, 33
+  offset: 0, 0
+  index: -1
+baseBodies/rainbow/head neck_rainbow
+  rotate: true
+  xy: 953, 854
+  size: 22, 59
+  orig: 22, 59
+  offset: 0, 0
+  index: -1
+baseBodies/rainbow/tail_rainbow
+  rotate: true
+  xy: 651, 224
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+baseBodies/rainbow/thigh_rainbow
+  rotate: true
+  xy: 308, 993
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+baseBodies/rainbow/wing_rainbow
+  rotate: false
+  xy: 409, 792
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+baseBodies/seramaCherry/body_Cherry
+  rotate: false
+  xy: 170, 553
+  size: 41, 33
+  orig: 41, 33
+  offset: 0, 0
+  index: -1
+baseBodies/seramaCherry/had_Cherry
+  rotate: true
+  xy: 39, 822
+  size: 23, 59
+  orig: 23, 59
+  offset: 0, 0
+  index: -1
+baseBodies/seramaCherry/leg_Cherry
+  rotate: true
+  xy: 321, 993
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+baseBodies/seramaCherry/tail_Cherry
+  rotate: true
+  xy: 48, 448
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+baseBodies/seramaCherry/wing_Cherry
+  rotate: false
+  xy: 440, 792
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+baseBodies/seramaPink/body_Pink
+  rotate: false
+  xy: 255, 550
+  size: 41, 33
+  orig: 41, 33
+  offset: 0, 0
+  index: -1
+baseBodies/seramaPink/had_Pink
+  rotate: true
+  xy: 130, 820
+  size: 23, 59
+  orig: 23, 59
+  offset: 0, 0
+  index: -1
+baseBodies/seramaPink/leg_Pink
+  rotate: true
+  xy: 336, 993
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+baseBodies/seramaPink/tail_Pink
+  rotate: true
+  xy: 95, 447
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+baseBodies/seramaPink/wing_Pink
+  rotate: false
+  xy: 471, 790
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+baseBodies/seramaRed/body_Red
+  rotate: false
+  xy: 297, 547
+  size: 41, 33
+  orig: 41, 33
+  offset: 0, 0
+  index: -1
+baseBodies/seramaRed/had_Red
+  rotate: true
+  xy: 190, 820
+  size: 23, 59
+  orig: 23, 59
+  offset: 0, 0
+  index: -1
+baseBodies/seramaRed/leg_Red
+  rotate: true
+  xy: 351, 993
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+baseBodies/seramaRed/tail_Red
+  rotate: true
+  xy: 179, 444
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+baseBodies/seramaRed/wing_Red
+  rotate: false
+  xy: 502, 787
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+baseBodies/seramaRose/body_Rose
+  rotate: false
+  xy: 339, 547
+  size: 41, 33
+  orig: 41, 33
+  offset: 0, 0
+  index: -1
+baseBodies/seramaRose/had_Rose
+  rotate: true
+  xy: 250, 820
+  size: 23, 59
+  orig: 23, 59
+  offset: 0, 0
+  index: -1
+baseBodies/seramaRose/leg_Rose
+  rotate: true
+  xy: 366, 993
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+baseBodies/seramaRose/tail_Rose
+  rotate: true
+  xy: 226, 443
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+baseBodies/seramaRose/wing_Rose
+  rotate: false
+  xy: 533, 786
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+baseBodies/sultanBlue/body_Blue
+  rotate: false
+  xy: 381, 542
+  size: 41, 33
+  orig: 41, 33
+  offset: 0, 0
+  index: -1
+baseBodies/sultanBlue/had_Blue
+  rotate: true
+  xy: 310, 819
+  size: 23, 59
+  orig: 23, 59
+  offset: 0, 0
+  index: -1
+baseBodies/sultanBlue/leg_Blue
+  rotate: true
+  xy: 381, 993
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+baseBodies/sultanBlue/tail_Blue
+  rotate: true
+  xy: 273, 440
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+baseBodies/sultanBlue/wing_Blue
+  rotate: false
+  xy: 564, 786
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+baseBodies/sultanLightBlue/body_LightBlue
+  rotate: false
+  xy: 423, 542
+  size: 41, 33
+  orig: 41, 33
+  offset: 0, 0
+  index: -1
+baseBodies/sultanLightBlue/had_LightBlue
+  rotate: true
+  xy: 370, 818
+  size: 23, 59
+  orig: 23, 59
+  offset: 0, 0
+  index: -1
+baseBodies/sultanLightBlue/leg_LightBlue
+  rotate: true
+  xy: 396, 992
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+baseBodies/sultanLightBlue/tail_LightBlue
+  rotate: true
+  xy: 320, 439
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+baseBodies/sultanLightBlue/wing_LightBlue
+  rotate: false
+  xy: 595, 786
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+baseBodies/sultanPurple/body_Purple
+  rotate: false
+  xy: 465, 542
+  size: 41, 33
+  orig: 41, 33
+  offset: 0, 0
+  index: -1
+baseBodies/sultanPurple/had_Purple
+  rotate: true
+  xy: 430, 817
+  size: 23, 59
+  orig: 23, 59
+  offset: 0, 0
+  index: -1
+baseBodies/sultanPurple/leg_Purple
+  rotate: true
+  xy: 411, 992
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+baseBodies/sultanPurple/tail_Purple
+  rotate: true
+  xy: 367, 435
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+baseBodies/sultanPurple/wing_Purple
+  rotate: false
+  xy: 626, 785
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+baseBodies/sultanViolet/body_Violet
+  rotate: false
+  xy: 544, 539
+  size: 41, 33
+  orig: 41, 33
+  offset: 0, 0
+  index: -1
+baseBodies/sultanViolet/had_Violet
+  rotate: true
+  xy: 583, 811
+  size: 23, 59
+  orig: 23, 59
+  offset: 0, 0
+  index: -1
+baseBodies/sultanViolet/leg_Violet
+  rotate: true
+  xy: 426, 992
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+baseBodies/sultanViolet/tail_Violet
+  rotate: true
+  xy: 414, 435
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+baseBodies/sultanViolet/wing_Violet
+  rotate: false
+  xy: 657, 784
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+beak/Black
+  rotate: false
+  xy: 441, 992
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+beak/Black_open
+  rotate: false
+  xy: 469, 979
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+beak/Dragon
+  rotate: false
+  xy: 877, 975
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+beak/Falcon
+  rotate: false
+  xy: 922, 989
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+beak/Glitter
+  rotate: false
+  xy: 940, 989
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+beak/Gold
+  rotate: false
+  xy: 458, 992
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+beak/Gold_open
+  rotate: false
+  xy: 485, 978
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+beak/Orange
+  rotate: false
+  xy: 487, 991
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+beak/Orange_open
+  rotate: false
+  xy: 501, 978
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+beak/Robot
+  rotate: false
+  xy: 957, 988
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+beak/White
+  rotate: false
+  xy: 504, 991
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+beak/White_open
+  rotate: false
+  xy: 517, 978
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+beak/Yellow
+  rotate: false
+  xy: 521, 991
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+beak/Yellow_open
+  rotate: false
+  xy: 533, 978
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+cheek/BlackCheek
+  rotate: true
+  xy: 475, 992
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+cheek/CheekYellow
+  rotate: true
+  xy: 538, 991
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+cheek/DragonCheek
+  rotate: true
+  xy: 550, 991
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+cheek/FalconCheek
+  rotate: true
+  xy: 562, 990
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+cheek/GlitterCheck
+  rotate: true
+  xy: 574, 990
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+cheek/GoldCheek
+  rotate: true
+  xy: 586, 990
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+cheek/OrangeCheek
+  rotate: true
+  xy: 598, 990
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+cheek/WhiteCheck
+  rotate: true
+  xy: 610, 990
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+chickenapult/Chickenapult_Base
+  rotate: false
+  xy: 863, 264
+  size: 144, 40
+  orig: 144, 40
+  offset: 0, 0
+  index: -1
+chickenapult/Chickenapult_Base2
+  rotate: false
+  xy: 491, 703
+  size: 143, 26
+  orig: 143, 26
+  offset: 0, 0
+  index: -1
+chickenapult/Chickenapult_Roll
+  rotate: false
+  xy: 995, 752
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+chickenapult/Chickenapult_Rope
+  rotate: false
+  xy: 350, 359
+  size: 61, 37
+  orig: 61, 37
+  offset: 0, 0
+  index: -1
+chickenapult/Chickenapult_Smoke-1
+  rotate: false
+  xy: 275, 912
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1
+chickenapult/Chickenapult_Smoke-2
+  rotate: false
+  xy: 344, 843
+  size: 42, 23
+  orig: 42, 23
+  offset: 0, 0
+  index: -1
+chickenapult/Chickenapult_Smoke-3
+  rotate: false
+  xy: 818, 636
+  size: 56, 30
+  orig: 56, 30
+  offset: 0, 0
+  index: -1
+chickenapult/Chickenapult_Smoke-4
+  rotate: false
+  xy: 946, 941
+  size: 27, 16
+  orig: 27, 16
+  offset: 0, 0
+  index: -1
+chickenapult/Chickenapult_Smoke-5
+  rotate: false
+  xy: 688, 784
+  size: 48, 24
+  orig: 48, 24
+  offset: 0, 0
+  index: -1
+chickenapult/Chickenapult_Thrower2
+  rotate: false
+  xy: 754, 308
+  size: 84, 39
+  orig: 84, 39
+  offset: 0, 0
+  index: -1
+chickenapult/Chickenapult_Wheel_back_L
+  rotate: false
+  xy: 51, 159
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+chickenapult/Chickenapult_Wheel_back_R
+  rotate: false
+  xy: 142, 102
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+chickenapult/Chickenapult_Wheel_front_R
+  rotate: false
+  xy: 142, 102
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+chickenapult/Chickenapult_Wheel_front_L
+  rotate: false
+  xy: 97, 154
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+cold snap/Book-4
+  rotate: false
+  xy: 375, 188
+  size: 73, 43
+  orig: 73, 44
+  offset: 0, 0
+  index: -1
+cold snap/Iced_Body
+  rotate: false
+  xy: 412, 358
+  size: 46, 37
+  orig: 46, 37
+  offset: 0, 0
+  index: -1
+cold snap/Iced_Head
+  rotate: true
+  xy: 1, 294
+  size: 39, 69
+  orig: 39, 69
+  offset: 0, 0
+  index: -1
+cold snap/Iced_Leg
+  rotate: true
+  xy: 549, 977
+  size: 12, 17
+  orig: 12, 17
+  offset: 0, 0
+  index: -1
+cold snap/Iced_Tail
+  rotate: true
+  xy: 752, 266
+  size: 41, 53
+  orig: 41, 53
+  offset: 0, 0
+  index: -1
+cold snap/Icywind_1
+  rotate: false
+  xy: 367, 739
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+cold snap/Icywind_2
+  rotate: false
+  xy: 479, 865
+  size: 33, 22
+  orig: 34, 22
+  offset: 0, 0
+  index: -1
+cold snap/Icywind_3
+  rotate: false
+  xy: 507, 542
+  size: 36, 33
+  orig: 36, 33
+  offset: 0, 0
+  index: -1
+cold snap/Icywind_4
+  rotate: false
+  xy: 101, 656
+  size: 45, 29
+  orig: 45, 29
+  offset: 0, 0
+  index: -1
+cold snap/Icywind_5
+  rotate: false
+  xy: 296, 682
+  size: 38, 28
+  orig: 46, 28
+  offset: 0, 0
+  index: -1
+cold snap/Icywind_6
+  rotate: false
+  xy: 135, 623
+  size: 45, 31
+  orig: 45, 31
+  offset: 0, 0
+  index: -1
+cold snap/MagicSigil_center
+  rotate: true
+  xy: 193, 148
+  size: 46, 48
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+cold snap/Wizard_back hat
+  rotate: false
+  xy: 1, 871
+  size: 50, 21
+  orig: 50, 21
+  offset: 0, 0
+  index: -1
+cold snap/Wizard_front hat
+  rotate: false
+  xy: 875, 635
+  size: 54, 30
+  orig: 54, 30
+  offset: 0, 0
+  index: -1
+cold snap/Wizard_front necklace
+  rotate: true
+  xy: 690, 960
+  size: 14, 26
+  orig: 14, 26
+  offset: 0, 0
+  index: -1
+cold snap/Wizard_head neclace
+  rotate: true
+  xy: 241, 1014
+  size: 6, 9
+  orig: 6, 9
+  offset: 0, 0
+  index: -1
+cold snap/Wizard_neck robe
+  rotate: true
+  xy: 717, 960
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+cold snap/Wizard_neck robe back
+  rotate: true
+  xy: 204, 1004
+  size: 9, 19
+  orig: 9, 19
+  offset: 0, 0
+  index: -1
+cold snap/Wizard_necklace back
+  rotate: true
+  xy: 106, 1016
+  size: 4, 24
+  orig: 4, 24
+  offset: 0, 0
+  index: -1
+cold snap/Wizard_robe
+  rotate: true
+  xy: 181, 621
+  size: 31, 43
+  orig: 31, 43
+  offset: 0, 0
+  index: -1
+combColors/Black
+  rotate: false
+  xy: 306, 912
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1
+combColors/Blue
+  rotate: false
+  xy: 337, 911
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1
+combColors/Candy
+  rotate: false
+  xy: 368, 911
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1
+combColors/Green
+  rotate: false
+  xy: 399, 911
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1
+combColors/Orange
+  rotate: false
+  xy: 430, 911
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1
+combColors/Pink
+  rotate: false
+  xy: 461, 910
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1
+combColors/Purple
+  rotate: false
+  xy: 492, 910
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1
+combColors/Red
+  rotate: false
+  xy: 523, 909
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1
+combColors/Studs
+  rotate: false
+  xy: 622, 990
+  size: 21, 10
+  orig: 21, 11
+  offset: 0, 1
+  index: -1
+combColors/Teal
+  rotate: false
+  xy: 554, 908
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1
+combColors/White
+  rotate: false
+  xy: 607, 907
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1
+combColors/Yellow
+  rotate: false
+  xy: 638, 906
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1
+dinosaur/beak
+  rotate: false
+  xy: 644, 990
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+dinosaur/body
+  rotate: false
+  xy: 957, 599
+  size: 41, 32
+  orig: 41, 32
+  offset: 0, 0
+  index: -1
+dinosaur/dino_beak1
+  rotate: false
+  xy: 679, 1012
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+dinosaur/dino_beak2
+  rotate: false
+  xy: 522, 1013
+  size: 14, 7
+  orig: 14, 7
+  offset: 0, 0
+  index: -1
+dinosaur/dust0001
+  rotate: false
+  xy: 537, 1013
+  size: 15, 7
+  orig: 16, 9
+  offset: 0, 0
+  index: -1
+dinosaur/dust0002
+  rotate: false
+  xy: 553, 1013
+  size: 16, 7
+  orig: 16, 9
+  offset: 0, 1
+  index: -1
+dinosaur/dust0003
+  rotate: false
+  xy: 251, 1014
+  size: 15, 6
+  orig: 16, 9
+  offset: 1, 3
+  index: -1
+dinosaur/eyes_10
+  rotate: false
+  xy: 895, 975
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+dinosaur/foot
+  rotate: true
+  xy: 585, 908
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+dinosaur/hair
+  rotate: false
+  xy: 350, 767
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+dinosaur/head
+  rotate: true
+  xy: 75, 846
+  size: 22, 54
+  orig: 22, 54
+  offset: 0, 0
+  index: -1
+dinosaur/tail
+  rotate: true
+  xy: 586, 539
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+dinosaur/wattle
+  rotate: true
+  xy: 659, 990
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1
+dinosaur/wing
+  rotate: true
+  xy: 499, 888
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+eyeTypes/Alien
+  rotate: false
+  xy: 437, 948
+  size: 19, 15
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+eyeTypes/Angry
+  rotate: false
+  xy: 737, 960
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+eyeTypes/Beauty
+  rotate: false
+  xy: 759, 960
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+eyeTypes/Bloodshot
+  rotate: false
+  xy: 777, 960
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+eyeTypes/Bulging
+  rotate: false
+  xy: 457, 948
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+eyeTypes/Buttons
+  rotate: false
+  xy: 479, 947
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+eyeTypes/Cockeyed
+  rotate: false
+  xy: 798, 960
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+eyeTypes/Crosseyed
+  rotate: false
+  xy: 916, 975
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+eyeTypes/Cyclops
+  rotate: true
+  xy: 934, 975
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+eyeTypes/Determined
+  rotate: false
+  xy: 501, 947
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+eyeTypes/Exhausted
+  rotate: false
+  xy: 950, 974
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+eyeTypes/Eyepatch
+  rotate: false
+  xy: 700, 925
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+eyeTypes/Lizard
+  rotate: false
+  xy: 969, 974
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+eyeTypes/Owl
+  rotate: false
+  xy: 974, 939
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+eyeTypes/Robot
+  rotate: false
+  xy: 513, 864
+  size: 26, 22
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+eyeTypes/Sad
+  rotate: false
+  xy: 818, 960
+  size: 20, 14
+  orig: 21, 15
+  offset: 1, 0
+  index: -1
+eyeTypes/Shocked
+  rotate: false
+  xy: 522, 947
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+eyeTypes/Sleeping Eyes
+  rotate: false
+  xy: 694, 1012
+  size: 19, 8
+  orig: 19, 8
+  offset: 0, 0
+  index: -1
+eyeTypes/Sleepy
+  rotate: false
+  xy: 224, 1004
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+eyelids/eyelid_black
+  rotate: false
+  xy: 267, 1014
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+eyelids/eyelid_black2
+  rotate: false
+  xy: 714, 1012
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+eyelids/eyelid_blue
+  rotate: false
+  xy: 276, 1014
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+eyelids/eyelid_blue2
+  rotate: false
+  xy: 729, 1012
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+eyelids/eyelid_cherry
+  rotate: false
+  xy: 285, 1014
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+eyelids/eyelid_cherry2
+  rotate: false
+  xy: 744, 1012
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+eyelids/eyelid_green
+  rotate: false
+  xy: 294, 1014
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+eyelids/eyelid_green2
+  rotate: false
+  xy: 759, 1012
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+eyelids/eyelid_lightgreen
+  rotate: false
+  xy: 303, 1014
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+eyelids/eyelid_lightgreen2
+  rotate: false
+  xy: 774, 1012
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+eyelids/eyelid_orange
+  rotate: false
+  xy: 312, 1014
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+eyelids/eyelid_orange2
+  rotate: false
+  xy: 789, 1012
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+eyelids/eyelid_pink
+  rotate: false
+  xy: 321, 1014
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+eyelids/eyelid_pink2
+  rotate: false
+  xy: 804, 1012
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+eyelids/eyelid_purple
+  rotate: false
+  xy: 330, 1014
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+eyelids/eyelid_purple2
+  rotate: false
+  xy: 819, 1012
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+eyelids/eyelid_rainbow
+  rotate: false
+  xy: 339, 1014
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+eyelids/eyelid_rainbow2
+  rotate: false
+  xy: 834, 1012
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+eyelids/eyelid_red
+  rotate: false
+  xy: 348, 1014
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+eyelids/eyelid_red2
+  rotate: false
+  xy: 849, 1012
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+eyelids/eyelid_rose
+  rotate: false
+  xy: 357, 1014
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+eyelids/eyelid_rose2
+  rotate: false
+  xy: 864, 1012
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+eyelids/eyelid_runic
+  rotate: false
+  xy: 366, 1014
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+eyelids/eyelid_runic2
+  rotate: false
+  xy: 879, 1012
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+eyelids/eyelid_violet
+  rotate: false
+  xy: 375, 1014
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+eyelids/eyelid_violet2
+  rotate: false
+  xy: 894, 1012
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+eyelids/eyelid_white
+  rotate: false
+  xy: 384, 1014
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+eyelids/eyelid_white2
+  rotate: false
+  xy: 909, 1012
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+eyelids/eyelid_yellow
+  rotate: false
+  xy: 393, 1014
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+eyelids/eyelid_yellow2
+  rotate: false
+  xy: 924, 1012
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+eyelids/eyelids_left top
+  rotate: false
+  xy: 939, 1012
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+eyelids/eyelids_right top
+  rotate: false
+  xy: 402, 1014
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+eyelids/eyelids_roboeyelid
+  rotate: false
+  xy: 954, 1012
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+jetpack/GetFire 1
+  rotate: false
+  xy: 699, 130
+  size: 69, 46
+  orig: 127, 127
+  offset: 19, 40
+  index: -1
+jetpack/GetFire 2
+  rotate: false
+  xy: 769, 129
+  size: 70, 46
+  orig: 127, 127
+  offset: 19, 40
+  index: -1
+jetpack/GetFire 3
+  rotate: false
+  xy: 188, 46
+  size: 71, 50
+  orig: 127, 127
+  offset: 17, 40
+  index: -1
+jetpack/GetFire 4
+  rotate: false
+  xy: 260, 44
+  size: 71, 50
+  orig: 127, 127
+  offset: 16, 39
+  index: -1
+jetpack/GetFire 5
+  rotate: false
+  xy: 332, 41
+  size: 71, 50
+  orig: 127, 127
+  offset: 14, 38
+  index: -1
+jetpack/GetFire Smoke 1
+  rotate: false
+  xy: 242, 145
+  size: 63, 45
+  orig: 127, 127
+  offset: 26, 40
+  index: -1
+jetpack/GetFire Smoke 2
+  rotate: false
+  xy: 802, 176
+  size: 57, 44
+  orig: 127, 127
+  offset: 29, 42
+  index: -1
+jetpack/GetFire Smoke 3
+  rotate: false
+  xy: 699, 309
+  size: 54, 39
+  orig: 127, 127
+  offset: 29, 43
+  index: -1
+jetpack/GetFire Smoke 4
+  rotate: false
+  xy: 806, 265
+  size: 56, 41
+  orig: 127, 127
+  offset: 30, 44
+  index: -1
+jetpack/GetFire Smoke 5
+  rotate: false
+  xy: 851, 221
+  size: 61, 42
+  orig: 127, 127
+  offset: 29, 44
+  index: -1
+jetpack/Jetpack
+  rotate: false
+  xy: 930, 635
+  size: 53, 30
+  orig: 53, 30
+  offset: 0, 0
+  index: -1
+jetpack/Jetpack_Belt
+  rotate: true
+  xy: 507, 840
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+jetpack/Jetpack_Belt_Booster
+  rotate: false
+  xy: 208, 1015
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+jetpack/Jetpack_Fire
+  rotate: false
+  xy: 974, 988
+  size: 16, 11
+  orig: 22, 13
+  offset: 0, 0
+  index: -1
+jetpack/Jetpack_Helmet
+  rotate: false
+  xy: 176, 407
+  size: 49, 36
+  orig: 57, 37
+  offset: 0, 1
+  index: -1
+jetpack/Jetpack_Helmet_Eyeslight
+  rotate: false
+  xy: 1, 894
+  size: 21, 20
+  orig: 57, 37
+  offset: 28, 6
+  index: -1
+jetpack/Jetpack_Helmet_Mask
+  rotate: false
+  xy: 1, 657
+  size: 36, 29
+  orig: 57, 37
+  offset: 21, 0
+  index: -1
+jetpack/Jetpack_fire0001
+  rotate: false
+  xy: 1, 591
+  size: 104, 32
+  orig: 112, 33
+  offset: 6, 1
+  index: -1
+jetpack/Jetpack_fire0002
+  rotate: false
+  xy: 885, 696
+  size: 106, 27
+  orig: 112, 33
+  offset: 6, 3
+  index: -1
+jetpack/Jetpack_fire0003
+  rotate: false
+  xy: 689, 729
+  size: 106, 26
+  orig: 112, 33
+  offset: 6, 3
+  index: -1
+jetpack/Jetpack_fire0004
+  rotate: false
+  xy: 438, 576
+  size: 105, 32
+  orig: 112, 33
+  offset: 6, 1
+  index: -1
+jetpack/Jetpack_fire0005
+  rotate: false
+  xy: 92, 686
+  size: 106, 27
+  orig: 112, 33
+  offset: 6, 3
+  index: -1
+legs/Blades
+  rotate: false
+  xy: 996, 939
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+legs/Gingerbread
+  rotate: true
+  xy: 243, 1004
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+legs/Hooves
+  rotate: false
+  xy: 934, 959
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+legs/legsBlackHen
+  rotate: false
+  xy: 543, 946
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+legs/legsBlackRooster
+  rotate: false
+  xy: 563, 945
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+legs/legsHen
+  rotate: false
+  xy: 583, 945
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+legs/legsRooster
+  rotate: false
+  xy: 603, 945
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+shadow/shadow
+  rotate: false
+  xy: 80, 1017
+  size: 14, 3
+  orig: 14, 3
+  offset: 0, 0
+  index: -1
+stripes/Striped Bald Chicken
+  rotate: false
+  xy: 556, 227
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+stripes/Striped Cherry Dusk
+  rotate: true
+  xy: 550, 312
+  size: 39, 42
+  orig: 45, 43
+  offset: 0, 0
+  index: -1
+stripes/Striped Eggshell
+  rotate: true
+  xy: 268, 364
+  size: 38, 41
+  orig: 42, 42
+  offset: 0, 1
+  index: -1
+stripes/Striped English Mustard
+  rotate: false
+  xy: 839, 307
+  size: 43, 39
+  orig: 44, 39
+  offset: 1, 0
+  index: -1
+stripes/Striped Istalblue
+  rotate: false
+  xy: 226, 406
+  size: 42, 36
+  orig: 42, 38
+  offset: 0, 1
+  index: -1
+stripes/Striped Joker's Jade
+  rotate: false
+  xy: 71, 292
+  size: 41, 39
+  orig: 48, 46
+  offset: 0, 1
+  index: -1
+stripes/Striped Manic Mint
+  rotate: false
+  xy: 983, 305
+  size: 40, 39
+  orig: 41, 40
+  offset: 1, 0
+  index: -1
+stripes/Striped Merah Red
+  rotate: true
+  xy: 310, 362
+  size: 38, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1
+stripes/Striped Orange Will
+  rotate: true
+  xy: 248, 193
+  size: 44, 47
+  orig: 44, 47
+  offset: 0, 0
+  index: -1
+stripes/Striped Purple Wine
+  rotate: false
+  xy: 558, 270
+  size: 45, 40
+  orig: 46, 42
+  offset: 0, 0
+  index: -1
+stripes/Striped Rose
+  rotate: true
+  xy: 269, 403
+  size: 36, 42
+  orig: 42, 42
+  offset: 6, 0
+  index: -1
+stripes/Striped Royal Violet
+  rotate: true
+  xy: 408, 766
+  size: 25, 32
+  orig: 28, 35
+  offset: 3, 3
+  index: -1
+stripes/Striped Sapphire
+  rotate: true
+  xy: 707, 267
+  size: 41, 44
+  orig: 41, 44
+  offset: 0, 0
+  index: -1
+stripes/Striped Screamin Green
+  rotate: true
+  xy: 1, 252
+  size: 41, 43
+  orig: 41, 44
+  offset: 0, 0
+  index: -1
+stripes/Striped Shocking Pink
+  rotate: false
+  xy: 132, 371
+  size: 43, 37
+  orig: 46, 51
+  offset: 1, 1
+  index: -1
+stripes/Striped Wild Moss
+  rotate: false
+  xy: 504, 183
+  size: 45, 44
+  orig: 46, 45
+  offset: 0, 1
+  index: -1
+stripes/Stripes_Empty
+  rotate: false
+  xy: 1, 1019
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+wattleColors/wattleBlack
+  rotate: true
+  xy: 257, 1004
+  size: 9, 18
+  orig: 9, 18
+  offset: 0, 0
+  index: -1
+wattleColors/wattleBlue
+  rotate: true
+  xy: 276, 1004
+  size: 9, 19
+  orig: 9, 19
+  offset: 0, 0
+  index: -1
+wattleColors/wattleCandy
+  rotate: true
+  xy: 296, 1004
+  size: 9, 19
+  orig: 9, 19
+  offset: 0, 0
+  index: -1
+wattleColors/wattleGreen
+  rotate: true
+  xy: 316, 1004
+  size: 9, 19
+  orig: 9, 19
+  offset: 0, 0
+  index: -1
+wattleColors/wattleOrange
+  rotate: true
+  xy: 336, 1004
+  size: 9, 19
+  orig: 9, 19
+  offset: 0, 0
+  index: -1
+wattleColors/wattlePink
+  rotate: true
+  xy: 356, 1004
+  size: 9, 19
+  orig: 9, 19
+  offset: 0, 0
+  index: -1
+wattleColors/wattlePurple
+  rotate: true
+  xy: 376, 1004
+  size: 9, 19
+  orig: 9, 19
+  offset: 0, 0
+  index: -1
+wattleColors/wattleRed
+  rotate: true
+  xy: 410, 1003
+  size: 9, 18
+  orig: 9, 18
+  offset: 0, 0
+  index: -1
+wattleColors/wattleTeal
+  rotate: true
+  xy: 429, 1003
+  size: 9, 19
+  orig: 9, 19
+  offset: 0, 0
+  index: -1
+wattleColors/wattleWhite
+  rotate: true
+  xy: 449, 1003
+  size: 9, 19
+  orig: 9, 19
+  offset: 0, 0
+  index: -1
+wattleColors/wattleYellow
+  rotate: true
+  xy: 469, 1003
+  size: 9, 19
+  orig: 9, 19
+  offset: 0, 0
+  index: -1
+
+ChickenDerby_Animation_2.png
+size: 949, 781
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Blach Hole/Black Hole_part1
+  rotate: false
+  xy: 502, 390
+  size: 84, 86
+  orig: 89, 90
+  offset: 1, 2
+  index: -1
+Blach Hole/Black Hole_part2
+  rotate: true
+  xy: 870, 304
+  size: 81, 78
+  orig: 82, 81
+  offset: 1, 2
+  index: -1
+Blach Hole/Black Hole_part5
+  rotate: false
+  xy: 276, 60
+  size: 83, 84
+  orig: 83, 84
+  offset: 0, 0
+  index: -1
+Blue Rooster/BlueRooster_Flash
+  rotate: true
+  xy: 776, 578
+  size: 102, 95
+  orig: 102, 96
+  offset: 0, 1
+  index: -1
+CK-47/BangEffect0002
+  rotate: false
+  xy: 800, 23
+  size: 61, 57
+  orig: 105, 95
+  offset: 20, 18
+  index: -1
+CK-47/BangEffect0003
+  rotate: false
+  xy: 365, 4
+  size: 77, 69
+  orig: 105, 95
+  offset: 12, 12
+  index: -1
+CK-47/BangEffect0004
+  rotate: true
+  xy: 863, 132
+  size: 91, 83
+  orig: 105, 95
+  offset: 6, 6
+  index: -1
+CK-47/BangEffect0005
+  rotate: false
+  xy: 389, 211
+  size: 91, 84
+  orig: 105, 95
+  offset: 6, 5
+  index: -1
+CK-47/BangEffect0006
+  rotate: true
+  xy: 587, 390
+  size: 93, 86
+  orig: 105, 95
+  offset: 5, 4
+  index: -1
+CK-47/BangEffect0007
+  rotate: false
+  xy: 677, 303
+  size: 97, 89
+  orig: 105, 95
+  offset: 3, 3
+  index: -1
+CK-47/BangEffect0008
+  rotate: false
+  xy: 674, 393
+  size: 99, 91
+  orig: 105, 95
+  offset: 2, 2
+  index: -1
+CK-47/BangEffect0009
+  rotate: false
+  xy: 775, 484
+  size: 101, 93
+  orig: 105, 95
+  offset: 1, 1
+  index: -1
+CK-47/BangEffect0010
+  rotate: true
+  xy: 191, 297
+  size: 103, 95
+  orig: 105, 95
+  offset: 0, 0
+  index: -1
+CK-47/BangEffect0011
+  rotate: true
+  xy: 102, 72
+  size: 105, 95
+  orig: 105, 95
+  offset: 0, 0
+  index: -1
+CK-47/Electric Flares0007
+  rotate: false
+  xy: 204, 477
+  size: 96, 53
+  orig: 100, 63
+  offset: 3, 3
+  index: -1
+CK-47/Electric Flares0008
+  rotate: true
+  xy: 276, 629
+  size: 98, 54
+  orig: 100, 63
+  offset: 2, 2
+  index: -1
+CK-47/Сloud0001
+  rotate: false
+  xy: 665, 105
+  size: 82, 69
+  orig: 118, 102
+  offset: 17, 16
+  index: -1
+CK-47/Сloud0002
+  rotate: false
+  xy: 125, 401
+  size: 88, 75
+  orig: 118, 102
+  offset: 14, 13
+  index: -1
+CK-47/Сloud0003
+  rotate: false
+  xy: 775, 308
+  size: 94, 84
+  orig: 118, 102
+  offset: 11, 8
+  index: -1
+CK-47/Сloud0004
+  rotate: false
+  xy: 774, 393
+  size: 101, 90
+  orig: 118, 102
+  offset: 7, 5
+  index: -1
+CK-47/Сloud0005
+  rotate: false
+  xy: 447, 477
+  size: 106, 94
+  orig: 118, 102
+  offset: 6, 2
+  index: -1
+CK-47/Сloud0006
+  rotate: false
+  xy: 666, 485
+  size: 108, 96
+  orig: 118, 102
+  offset: 5, 1
+  index: -1
+CK-47/Сloud0007
+  rotate: false
+  xy: 554, 582
+  size: 110, 98
+  orig: 118, 102
+  offset: 4, 0
+  index: -1
+CK-47/Сloud0008
+  rotate: false
+  xy: 665, 582
+  size: 110, 98
+  orig: 118, 102
+  offset: 4, 0
+  index: -1
+CK-47/Сloud0009
+  rotate: false
+  xy: 554, 484
+  size: 111, 97
+  orig: 118, 102
+  offset: 4, 1
+  index: -1
+CK-47/Сloud0010
+  rotate: false
+  xy: 331, 622
+  size: 115, 97
+  orig: 118, 102
+  offset: 1, 4
+  index: -1
+CK-47/Сloud0011
+  rotate: false
+  xy: 488, 681
+  size: 118, 99
+  orig: 118, 102
+  offset: 0, 3
+  index: -1
+CK-47/Сloud0012
+  rotate: true
+  xy: 1, 166
+  size: 118, 100
+  orig: 118, 102
+  offset: 0, 2
+  index: -1
+CK-47/Сloud0013
+  rotate: true
+  xy: 1, 47
+  size: 118, 100
+  orig: 118, 102
+  offset: 0, 2
+  index: -1
+CK-47/Сloud0014
+  rotate: false
+  xy: 607, 681
+  size: 116, 99
+  orig: 118, 102
+  offset: 1, 3
+  index: -1
+CK-47/Сloud0015
+  rotate: false
+  xy: 724, 681
+  size: 114, 99
+  orig: 118, 102
+  offset: 2, 3
+  index: -1
+Dig/Dig_Start_2
+  rotate: false
+  xy: 102, 1
+  size: 68, 70
+  orig: 68, 70
+  offset: 0, 0
+  index: -1
+Dig/Dig_Start_3
+  rotate: false
+  xy: 391, 296
+  size: 102, 97
+  orig: 102, 97
+  offset: 0, 0
+  index: -1
+Dig/Dig_Start_4
+  rotate: false
+  xy: 129, 533
+  size: 124, 104
+  orig: 124, 104
+  offset: 0, 0
+  index: -1
+Dig/Dig_Start_5
+  rotate: false
+  xy: 129, 638
+  size: 146, 89
+  orig: 146, 89
+  offset: 0, 0
+  index: -1
+Dig/Dig_Start_6
+  rotate: false
+  xy: 332, 720
+  size: 155, 60
+  orig: 155, 60
+  offset: 0, 0
+  index: -1
+Dig/Dig_Trail_8
+  rotate: false
+  xy: 494, 291
+  size: 99, 98
+  orig: 99, 98
+  offset: 0, 0
+  index: -1
+Dig/Dig_Trail_9
+  rotate: false
+  xy: 331, 533
+  size: 115, 88
+  orig: 115, 88
+  offset: 0, 0
+  index: -1
+Growth/Magic_effect/magic effect0003
+  rotate: false
+  xy: 303, 1
+  size: 61, 58
+  orig: 127, 88
+  offset: 7, 22
+  index: -1
+Growth/Magic_effect/magic effect0004
+  rotate: false
+  xy: 198, 72
+  size: 77, 72
+  orig: 127, 88
+  offset: 10, 7
+  index: -1
+Growth/Magic_effect/magic effect0005
+  rotate: false
+  xy: 677, 242
+  size: 101, 60
+  orig: 127, 88
+  offset: 13, 2
+  index: -1
+Growth/Magic_effect/magic effect0006
+  rotate: true
+  xy: 336, 197
+  size: 99, 52
+  orig: 127, 88
+  offset: 21, 2
+  index: -1
+Growth/Magic_effect/magic effect0007
+  rotate: false
+  xy: 389, 158
+  size: 94, 52
+  orig: 127, 88
+  offset: 26, 2
+  index: -1
+Growth/Magic_effect/magic effect0008
+  rotate: false
+  xy: 671, 175
+  size: 95, 66
+  orig: 127, 88
+  offset: 25, 1
+  index: -1
+Growth/Magic_effect/magic effect0009
+  rotate: false
+  xy: 767, 159
+  size: 95, 65
+  orig: 127, 88
+  offset: 25, 3
+  index: -1
+Growth/Magic_effect/magic effect0010
+  rotate: true
+  xy: 876, 386
+  size: 97, 72
+  orig: 127, 88
+  offset: 25, 15
+  index: -1
+Growth/Magic_effect/magic effect0012
+  rotate: true
+  xy: 173, 193
+  size: 101, 60
+  orig: 127, 88
+  offset: 25, 25
+  index: -1
+Growth/Magic_effect/magic effect0013
+  rotate: true
+  xy: 254, 531
+  size: 97, 76
+  orig: 127, 88
+  offset: 25, 8
+  index: -1
+Growth/Magic_effect/magic effect0014
+  rotate: true
+  xy: 872, 596
+  size: 111, 71
+  orig: 127, 88
+  offset: 7, 3
+  index: -1
+Growth/Magic_effect/magic effect0015
+  rotate: false
+  xy: 839, 708
+  size: 109, 72
+  orig: 127, 88
+  offset: 1, 3
+  index: -1
+Growth/Magic_effect/magic effect0016
+  rotate: false
+  xy: 578, 212
+  size: 92, 74
+  orig: 127, 88
+  offset: 1, 2
+  index: -1
+Growth/Magic_effect/magic effect0017
+  rotate: false
+  xy: 214, 401
+  size: 91, 75
+  orig: 127, 88
+  offset: 2, 2
+  index: -1
+Growth/Magic_effect/magic effect0018
+  rotate: false
+  xy: 306, 401
+  size: 91, 75
+  orig: 127, 88
+  offset: 2, 3
+  index: -1
+Teleport/electric effect0005
+  rotate: false
+  xy: 577, 69
+  size: 80, 59
+  orig: 140, 129
+  offset: 53, 43
+  index: -1
+Teleport/electric effect0006
+  rotate: false
+  xy: 484, 151
+  size: 92, 61
+  orig: 140, 129
+  offset: 39, 39
+  index: -1
+Teleport/electric effect0007
+  rotate: false
+  xy: 748, 81
+  size: 81, 77
+  orig: 140, 129
+  offset: 28, 28
+  index: -1
+Teleport/electric effect0008
+  rotate: false
+  xy: 360, 74
+  size: 81, 83
+  orig: 140, 129
+  offset: 26, 26
+  index: -1
+Teleport/electric effect0009
+  rotate: false
+  xy: 287, 297
+  size: 103, 103
+  orig: 140, 129
+  offset: 13, 13
+  index: -1
+Teleport/electric effect0010
+  rotate: false
+  xy: 1, 285
+  size: 115, 115
+  orig: 140, 129
+  offset: 7, 7
+  index: -1
+Teleport/electric effect0011
+  rotate: false
+  xy: 1, 401
+  size: 123, 123
+  orig: 140, 129
+  offset: 3, 3
+  index: -1
+Teleport/electric effect0012
+  rotate: false
+  xy: 1, 653
+  size: 127, 127
+  orig: 140, 129
+  offset: 1, 1
+  index: -1
+Teleport/electric effect0013
+  rotate: false
+  xy: 1, 525
+  size: 127, 127
+  orig: 140, 129
+  offset: 1, 1
+  index: -1
+accessorries and effects/Costumes/Body SexyRedDress
+  rotate: false
+  xy: 129, 477
+  size: 74, 55
+  orig: 74, 55
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyCrushedVelvetBlueDress
+  rotate: false
+  xy: 229, 1
+  size: 73, 58
+  orig: 73, 58
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyDirndlDress
+  rotate: false
+  xy: 443, 6
+  size: 80, 69
+  orig: 80, 69
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyGreenDanceDress
+  rotate: false
+  xy: 736, 27
+  size: 63, 53
+  orig: 64, 53
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyMayfieldKilt
+  rotate: false
+  xy: 301, 477
+  size: 67, 53
+  orig: 67, 53
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyPinkTutu
+  rotate: true
+  xy: 520, 87
+  size: 63, 56
+  orig: 63, 56
+  offset: 0, 0
+  index: -1
+accessorries and effects/Costumes/BodyStreakyBaconDress
+  rotate: false
+  xy: 369, 477
+  size: 62, 55
+  orig: 62, 55
+  offset: 0, 0
+  index: -1
+accessorries and effects/FightCloud/FightCloud0001
+  rotate: false
+  xy: 442, 76
+  size: 77, 74
+  orig: 122, 82
+  offset: 16, 4
+  index: -1
+accessorries and effects/FightCloud/FightCloud0002
+  rotate: false
+  xy: 870, 224
+  size: 78, 79
+  orig: 122, 82
+  offset: 15, 2
+  index: -1
+accessorries and effects/FightCloud/FightCloud0003
+  rotate: false
+  xy: 577, 129
+  size: 87, 82
+  orig: 122, 82
+  offset: 7, 0
+  index: -1
+accessorries and effects/FightCloud/FightCloud0004
+  rotate: false
+  xy: 779, 225
+  size: 90, 82
+  orig: 122, 82
+  offset: 4, 0
+  index: -1
+accessorries and effects/FightCloud/FightCloud0005
+  rotate: true
+  xy: 594, 287
+  size: 102, 82
+  orig: 122, 82
+  offset: 0, 0
+  index: -1
+accessorries and effects/FightCloud/FightCloud0006
+  rotate: false
+  xy: 398, 394
+  size: 103, 82
+  orig: 122, 82
+  offset: 1, 0
+  index: -1
+accessorries and effects/FightCloud/FightCloud0007
+  rotate: false
+  xy: 234, 145
+  size: 99, 73
+  orig: 122, 82
+  offset: 13, 0
+  index: -1
+accessorries and effects/FightCloud/FightCloud0008
+  rotate: true
+  xy: 117, 295
+  size: 105, 73
+  orig: 122, 82
+  offset: 13, 0
+  index: -1
+accessorries and effects/FightCloud/FightCloud0009
+  rotate: true
+  xy: 877, 488
+  size: 107, 70
+  orig: 122, 82
+  offset: 15, 2
+  index: -1
+accessorries and effects/FightCloud/FightCloud0010
+  rotate: true
+  xy: 102, 178
+  size: 106, 70
+  orig: 122, 82
+  offset: 15, 2
+  index: -1
+accessorries and effects/WhiteGlow
+  rotate: true
+  xy: 658, 35
+  size: 69, 77
+  orig: 75, 85
+  offset: 4, 1
+  index: -1
+accessorries and effects/hat_attributes/HeadPantomimeDonkeyMask
+  rotate: false
+  xy: 524, 14
+  size: 61, 54
+  orig: 61, 54
+  offset: 0, 0
+  index: -1
+chickenapult/Chickenapult_Block
+  rotate: false
+  xy: 481, 213
+  size: 96, 77
+  orig: 96, 77
+  offset: 0, 0
+  index: -1
+chickenapult/Chickenapult_Block2
+  rotate: false
+  xy: 234, 219
+  size: 101, 77
+  orig: 101, 77
+  offset: 0, 0
+  index: -1
+chickenapult/Chickenapult_Thrower
+  rotate: false
+  xy: 129, 728
+  size: 202, 52
+  orig: 202, 52
+  offset: 0, 0
+  index: -1
+cold snap/Book-1
+  rotate: false
+  xy: 862, 74
+  size: 62, 57
+  orig: 62, 57
+  offset: 0, 0
+  index: -1
+cold snap/Book-2
+  rotate: false
+  xy: 862, 16
+  size: 62, 57
+  orig: 62, 57
+  offset: 0, 0
+  index: -1
+cold snap/Book-3
+  rotate: true
+  xy: 171, 1
+  size: 70, 57
+  orig: 70, 57
+  offset: 0, 0
+  index: -1
+cold snap/MagicSigil_rotation
+  rotate: false
+  xy: 447, 572
+  size: 106, 108
+  orig: 106, 108
+  offset: 0, 0
+  index: -1

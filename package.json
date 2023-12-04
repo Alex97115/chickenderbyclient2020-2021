@@ -1,0 +1,56 @@
+{
+  "name": "phaser3-project-template",
+  "version": "1.1.2",
+  "description": "A Phaser 3 Project Template",
+  "main": "src/start.js",
+  "scripts": {
+    "build": "cross-env NODE_OPTIONS=--openssl-legacy-provider webpack --config webpack/prod.js",
+    "start": "cross-env NODE_OPTIONS=--openssl-legacy-provider webpack-dev-server --config webpack/base.js --open",
+    "production": "yarn install --frozen-lockfile && yarn run git-info-babel && yarn run git-info-prod && yarn run build && node server.js",
+    "git-info-babel": "node src/helper/gitInfoBabel.js",
+    "git-info-local": "node src/helper/gitInfoLocal.js",
+    "git-info-prod": "node src/helper/gitInfoProd.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/photonstorm/phaser3-project-template.git"
+  },
+  "author": "Richard Davey <rdavey@gmail.com> (http://www.photonstorm.com)",
+  "license": "MIT",
+  "licenseUrl": "http://www.opensource.org/licenses/mit-license.php",
+  "bugs": {
+    "url": "https://github.com/photonstorm/phaser3-project-template/issues"
+  },
+  "homepage": "https://github.com/photonstorm/phaser3-project-template#readme",
+  "devDependencies": {
+    "@babel/core": "^7.7.2",
+    "@babel/preset-env": "^7.7.1",
+    "axios": "^1.4.0",
+    "babel-loader": "^8.0.6",
+    "child_process": "^1.0.2",
+    "clean-webpack-plugin": "^3.0.0",
+    "cross-env": "^7.0.3",
+    "crypto": "^1.0.1",
+    "file-loader": "^4.2.0",
+    "fs": "^0.0.1-security",
+    "html-webpack-plugin": "^3.2.0",
+    "path": "^0.12.7",
+    "raw-loader": "^3.1.0",
+    "request": "^2.88.2",
+    "sqlite3": "^5.1.6",
+    "terser-webpack-plugin": "^2.2.1",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10",
+    "webpack-dev-server": "^3.9.0",
+    "webpack-merge": "^4.2.2"
+  },
+  "dependencies": {
+    "canvas-to-video": "^1.0.1",
+    "core-js": "^3.20.3",
+    "express": "^4.17.1",
+    "nosleep.js": "^0.12.0",
+    "phaser": "^3.55.2",
+    "regenerator-runtime": "^0.13.9",
+    "share-url": "^1.2.0"
+  }
+}

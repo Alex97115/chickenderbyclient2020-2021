@@ -1,0 +1,21 @@
+.DS_Store
+_RES/
+# System and IDE files
+Thumbs.db
+.idea
+*.suo
+*.sublime-project
+*.sublime-workspace
+
+# Vendors
+node_modules/
+
+# Build
+dist/
+/npm-debug.log
+
+gitInfo.json
+gitBranch.txt
+gitCommitHash.txt
+
+package-lock.json
